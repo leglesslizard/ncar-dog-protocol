@@ -1,0 +1,15 @@
+title: NCAR Dog Protocols
+description: Dog handling protocols for staff and volunteers
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:year/:month/:day/:title/
+
+# Exclude from processing
+exclude:
+  - src/
+  - README.md
+  - Gemfile
+  - Gemfile.lock

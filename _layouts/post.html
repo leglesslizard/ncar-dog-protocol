@@ -1,0 +1,106 @@
+---
+layout: default
+---
+<style>
+  .post-header {
+    margin-bottom: 2.5rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 3px solid #2c2c2c;
+  }
+
+  .post-header h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0 0 0.5rem;
+    color: #1a1a1a;
+  }
+
+  .back-link {
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.875rem;
+    color: #555;
+    text-decoration: none;
+    margin-bottom: 1.5rem;
+  }
+
+  .back-link:hover { color: #1a1a1a; }
+
+  .post-content h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.4rem;
+    font-weight: bold;
+    margin: 2.5rem 0 0.75rem;
+    color: #1a1a1a;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 0.35rem;
+  }
+
+  .post-content h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.15rem;
+    font-weight: bold;
+    margin: 2rem 0 0.5rem;
+    color: #1a1a1a;
+  }
+
+  .post-content p {
+    margin: 0.85rem 0;
+  }
+
+  .post-content ul,
+  .post-content ol {
+    margin: 0.85rem 0;
+    padding-left: 1.75rem;
+  }
+
+  .post-content li {
+    margin: 0.35rem 0;
+  }
+
+  .post-content strong {
+    font-weight: bold;
+  }
+
+  .post-content hr {
+    border: none;
+    border-top: 1px solid #ddd;
+    margin: 2.5rem 0;
+  }
+
+  .callout {
+    background: #fff8e1;
+    border-left: 4px solid #f0a500;
+    padding: 1rem 1.25rem;
+    margin: 1.25rem 0;
+    font-weight: bold;
+  }
+
+  .callout-critical {
+    background: #fff0f0;
+    border-left: 4px solid #c0392b;
+    padding: 1rem 1.25rem;
+    margin: 1.25rem 0;
+    font-weight: bold;
+  }
+
+  .callout-key {
+    background: #eaf4ff;
+    border-left: 4px solid #2980b9;
+    padding: 1rem 1.25rem;
+    margin: 1.25rem 0;
+    font-weight: bold;
+  }
+</style>
+
+<a class="back-link" href="{{ '/' | relative_url }}">&#8592; All Protocols</a>
+
+<div class="post-header">
+  <h1>{{ page.title }}</h1>
+</div>
+
+<div class="post-content">
+  {{ content }}
+</div>
