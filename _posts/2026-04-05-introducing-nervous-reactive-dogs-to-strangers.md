@@ -19,7 +19,7 @@ Before you even have the dog out, make sure you have plenty of chopped up sausag
 
 <div class="callout-key">
 LESS IS MORE<br><br>
-The LESS Attention and Interaction they have from strangers, the MORE they will Trust them and see they're Predictable and not a Threat.
+The LESS attention and interaction they have from strangers, the MORE they will trust them and see they're predictable and not a threat.
 </div>
 
 If new people were trying to give them affection and attention constantly - the dogs won't see them as safe and will be especially wary of them.
