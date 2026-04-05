@@ -28,7 +28,7 @@ It's like a stranger running up to you in the street and keeps trying to give yo
 
 **This process needs to be done slowly and not to be rushed.**
 
-**Worst Case Scenario.. A Client gets bitten = No-one Wins**
+**Worst case scenario.. a client gets bitten = no-one wins**
 
 ---
 
@@ -50,7 +50,7 @@ If it's rushed and people hastily try to give them affection too soon, the dog w
 
 ## To Begin With
 
-Have the new people walking **AHEAD** of the dog, making sure they know to Completely Ignore the dog - no eye contact, no trying to touch them, no talking to them - nothing.
+Have the new people walking **AHEAD** of the dog, making sure they know to completely ignore the dog - no eye contact, no trying to touch them, no talking to them - nothing.
 
 Walk the dog beside you or slightly behind you (on a short but relaxed lead) and at a safe distance behind the people (10 metres or so - more if the dog is struggling to settle) and follow exactly where they're walking.
 
@@ -60,9 +60,9 @@ It also allows the dog to familiarise itself with their scent.
 
 **What you're looking for is relaxed and calm behaviour from the dog - losing focus of the people in front, turning their back on them, sniffing, exploring, toileting and a relaxed posture.**
 
-**Depending on the dog and how traumatic it's background and association to people is, this may take a couple minutes or several hours of work before they Settle.**
+**Depending on the dog and how traumatic its background and association to people is, this may take a couple minutes or several hours of work before they settle.**
 
-**Do Not Rush This - This will take Time and Patience**
+**Do not rush this - this will take time and patience**
 
 ---
 
@@ -78,7 +78,7 @@ If the dog isn't food motivated then focus on just calm walking with them. If th
 
 ## Walking Alongside the Clients
 
-As long as the dog is settled and relaxed, eating treats off the floor and starting to relax with the people - walk alongside the clients. **But Always Put Yourself In-between the People and the Dog.**
+As long as the dog is settled and relaxed, eating treats off the floor and starting to relax with the people - walk alongside the clients. **But always put yourself in-between the people and the dog.**
 
 **By doing this you are creating a safe barrier between the people and the dog.**
 
@@ -90,13 +90,13 @@ Having the dog in front of you also communicates to the dog that you're asking t
 
 **If walking alongside the people is too much for the dog at this moment in time then drop back behind them until the dog settles.**
 
-Whilst walking alongside, if the dog is very relaxed and settled you can stop with the people (Still having the dog beside/just behind you) and you can ask the clients to throw a few sausages on the floor.
+Whilst walking alongside, if the dog is very relaxed and settled you can stop with the people (still having the dog beside/just behind you) and you can ask the clients to throw a few sausages on the floor.
 
 If the dog is very relaxed and eating the treats off the floor - then (one client at a time) - you can ask them to hand feed the dog - they can hold the treat out and if the dog approaches them then it's the dog's choice.
 
 **You always need to be directly in-between the people and the dog and be alert for any wary or tense behaviours.**
 
-When giving treats to a dog - People tend to get Complacent and Stroke the dog under the chin or stroke its head after giving it a treat - Remind them beforehand NOT to give Affection to the dog.
+When giving treats to a dog - people tend to get complacent and stroke the dog under the chin or stroke its head after giving it a treat - remind them beforehand NOT to give affection to the dog.
 
 Affection might be too much for the dog, resulting in the dog reacting, and you'll have to start all over again - and it will be harder this time as trust will be broken.
 
@@ -118,6 +118,6 @@ If the dog is toy motivated you can pass the toys to the clients for them to thr
 
 **They may take longer to settle and it may take a few sessions for them to learn to trust and be completely relaxed with the clients.**
 
-Take your Time. Relax but be Aware of the Situation.
+Take your time. Relax but be aware of the situation.
 
 **Read your dog well and take it slower if the dog is tense, wary and reacting.**

@@ -5,7 +5,7 @@ date: 2026-04-05
 order: 4
 ---
 
-When a dog is taken to the vets for the first time, We have no idea how the dog will react.
+When a dog is taken to the vets for the first time, we have no idea how the dog will react.
 
 **Many dogs have a negative association with veterinary practices as they are usually not associated with anything pleasant - only stress and unpleasant situations.**
 
@@ -15,15 +15,15 @@ When a dog is taken to the vets for the first time, We have no idea how the dog 
 
 ## The Dog Handler's Role
 
-The Dog Handler's role when taking the dog to the vets is to **Protect The Vet**.
+The dog handler's role when taking the dog to the vets is to **protect the vet**.
 
 The vet will normally have to examine the dog to give it a very thorough health check. This involves having to have their face very very close to the dog, especially when using a stethoscope to listen to their heart.
 
-**The Dog Always has to be Restrained well.**
+**The dog always has to be restrained well.**
 
 You need to make sure you have complete control of their head when the vet is examining them and vaccinating them.
 
-**Always be Ready in case the Dog Panics and Reacts.**
+**Always be ready in case the dog panics and reacts.**
 
 **If the dog is wearing a collar, tuck your fingers underneath it so you have complete control.**
 
@@ -36,6 +36,6 @@ Try to be relaxed so as not to create any unnecessary tension. Keep it as light,
 ## General Warnings
 
 <div class="callout-critical">
-Do not get Complacent with Any Breed of Any Age<br><br>
-Any Dog can React Negatively Unexpectedly and Quickly
+Do not get complacent with any breed of any age<br><br>
+Any dog can react negatively unexpectedly and quickly
 </div>

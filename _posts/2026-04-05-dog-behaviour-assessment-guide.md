@@ -5,7 +5,7 @@ date: 2026-04-05
 order: 5
 ---
 
-All dogs require a Behaviour Assessment before going to a home.
+All dogs require a behaviour assessment before going to a home.
 
 These assessments allow us to see what the dog is comfortable with, what insecurities they have and will determine what circumstances they will require in their potential home.
 
@@ -24,7 +24,7 @@ When it comes to doing behaviour assessments on our dogs, we will, more than lik
 When doing any part of the Assessment:
 
 <div class="callout-critical">
-Always Protect your FACE and NECK<br><br>
+Always protect your FACE and NECK<br><br>
 Always keep your face and neck away from the dog and always have your hand up in front of these vulnerable areas to protect yourself.
 </div>
 
@@ -59,9 +59,9 @@ If comfortable to do so, gently give the dog affection and test all the followin
 - Back
 - Tail
 
-Make sure not to be too intense when Assessing. **Be Relaxed and Keep it Light and Keep it Fun.**
+Make sure not to be too intense when assessing. **Be relaxed and keep it light and keep it fun.**
 
-**Always Be Casually Aware and ready for the dog to be Reactive.**
+**Always be casually aware and ready for the dog to be reactive.**
 
 **The dog may have sensitive areas - they may quickly be defensive or react in pain. Especially around sensitive areas like the stomach and rear end.** Some dogs may not like their eyes / paws being touched etc.
 
@@ -81,7 +81,7 @@ If the dog is a very large breed - then don't do your back in trying to pick it 
 
 ## How is the Dog with Being Restrained?
 
-If the dog isn't too nervous, Gently see how they are when being restrained. Again be mindful of your Face and Neck areas.
+If the dog isn't too nervous, gently see how they are when being restrained. Again be mindful of your face and neck areas.
 
 ---
 
@@ -130,11 +130,11 @@ The age of the children can be negotiated as you can get some very mature 10 **y
 
 If there are young children in the home - you can guarantee they will have friends of a similar age that will visit at random times.
 
-**If we know the dog may be living with young Children - An Extensive Assessment Must Be Done.**
+**If we know the dog may be living with young children - an extensive assessment must be done.**
 
-When it comes to deciding what age children dogs can live with - **We need to get this right.** Ask several other handlers what their opinions are and ask if they have seen any with the dog before deciding what age they can live with - and always check with the supervisor to make sure they agree.
+When it comes to deciding what age children dogs can live with - **we need to get this right.** Ask several other handlers what their opinions are and ask if they have seen any with the dog before deciding what age they can live with - and always check with the supervisor to make sure they agree.
 
-**The Kennel Supervisor will always be the one who will ultimately decide.**
+**The kennel supervisor will always be the one who will ultimately decide.**
 
 If we decide a dog can live with younger children but we then see negative behaviours further down the line during its stay with us, then this needs to be addressed and the age of children will need to increase.
 
@@ -176,13 +176,13 @@ When walking any dog - if prey drive behaviour is seen either before or after th
 
 When doing a food possession test, you just want to see if there is any nervous or possessive behaviour.
 
-**Remember: You are only Seeing if there is a Reaction - not to Push for one.**
+**Remember: you are only seeing if there is a reaction - not to push for one.**
 
-You can accidently Teach dogs to be food possessive! Which is why some already are.
+You can accidentally teach dogs to be food possessive! Which is why some already are.
 
 Don't be complacent if you think you know the dog - some of the loveliest, friendliest and most playful dogs can surprise you when it comes to food possession!
 
-**All Wary Behaviours Stems from the Eyes of the Dog.** You're looking for tense and wary behaviours. Are they -
+**All wary behaviours stem from the eyes of the dog.** You're looking for tense and wary behaviours. Are they -
 
 - Focused on you/quickly glancing at you, or focused on the food bowl?
 - Hovering over the food bowl
@@ -190,7 +190,7 @@ Don't be complacent if you think you know the dog - some of the loveliest, frien
 - Stiff and tense posture
 - Snarling
 - Growling
-- Snapping / Barking into the food bowl
+- Snapping / barking into the food bowl
 - **Eating very very quickly - almost snapping into the bowl**
 
 It's incredibly rare a dog will choose to bite you right away without giving several warnings first.
@@ -201,9 +201,9 @@ It's incredibly rare a dog will choose to bite you right away without giving sev
 
 ### How to Conduct the Food Possession Test
 
-**Avoid Direct Eye Contact Wherever Possible.**
+**Avoid direct eye contact wherever possible.**
 
-It's best to do food possession tests in the dog's kennel as that's where they will have a routine with feeding. Do not be overbearing. Stand/Crouch side on to the dog so it's less threatening.
+It's best to do food possession tests in the dog's kennel as that's where they will have a routine with feeding. Do not be overbearing. Stand/crouch side on to the dog so it's less threatening.
 
 Use a larger bowl than you normally would for the size of the dog - this is so there is more surface area for you to hold onto, it will not be as intense and safer for you as you can have your hands not so close to their mouth.
 
@@ -211,14 +211,14 @@ Use a larger bowl than you normally would for the size of the dog - this is so t
 
 When you present them with a bowl of decent meat and place the bowl down -
 
-**Firstly:** Just Stand at a distance. This is to see if they're comfortable with you being there. Do not be overbearing. Stand at a distance to the dog so it's less threatening.
+**Firstly:** just stand at a distance. This is to see if they're comfortable with you being there. Do not be overbearing. Stand at a distance to the dog so it's less threatening.
 
 - Are they hesitant to eat?
 - Do they eat straight away? Are they wary of you?
 - Are they relaxed to eat?
 - Are they relaxed but not interested in food at all?
 
-Gently and Slowly move your foot closer to the food bowl whilst they're eating. If they're comfortable with this, then glide it side to side in front of the bowl, and then tap it gently if you're able to do so.
+Gently and slowly move your foot closer to the food bowl whilst they're eating. If they're comfortable with this, then glide it side to side in front of the bowl, and then tap it gently if you're able to do so.
 
 - Any wary behaviour?
 - Growling?
@@ -226,22 +226,22 @@ Gently and Slowly move your foot closer to the food bowl whilst they're eating. 
 - Frozen posture?
 - Snapping at your feet?
 - Uncertainty?
-- Tense Behaviour?
+- Tense behaviour?
 - Do they eat quicker?
 
-If the dog is fine with this, and only if you feel confident to do so - Crouch down Side On to the Bowl.
+If the dog is fine with this, and only if you feel confident to do so - crouch down side on to the bowl.
 
-If the dog is still very relaxed with this, gently move your hand that is closest to the bowl towards the bowl and see if you can move it around slowly and potentially take it away. Don't Snatch it away, just move it Slowly at first.
+If the dog is still very relaxed with this, gently move your hand that is closest to the bowl towards the bowl and see if you can move it around slowly and potentially take it away. Don't snatch it away, just move it slowly at first.
 
 There is a fake rubber hand in the back office if you prefer to use that rather than your own hand.
 
-**Do Not put yourself at risk - think of the breed of dog you're assessing. Any breed of dog can be food possessive.**
+**Do not put yourself at risk - think of the breed of dog you're assessing. Any breed of dog can be food possessive.**
 
 **If it's a very large and powerful breed, make sure you're being extra vigilant on watching out for nervous and wary behavioural signs.**
 
 Always position yourself side on - this is so if you need to move quickly away, you can do so very easily, and make sure your hand can be moved away quickly.
 
-**Do Not Push for a Reaction and Annoy the Dog.**
+**Do not push for a reaction and annoy the dog.**
 
 When you see any signs of tension/wariness it's up to you and the situation as to how far to proceed. Do not put yourself at risk - if it doesn't feel right and you get a sense the dog really isn't comfortable, then you can stop there.
 
@@ -271,13 +271,13 @@ Types of toys to try:
 - Cuddly toys
 - Footballs
 
-- Do they destroy toys in their kennel and the paddock? If they only destroy toys in their kennel, it may be a sign of Separation Anxiety.
+- Do they destroy toys in their kennel and the paddock? If they only destroy toys in their kennel, it may be a sign of separation anxiety.
 - Do they drop toys for you wanting to play fetch?
 - **Do they bring toys up to you to play?**
 - Do they dart towards you and quickly run away wanting to be chased?
 - Do they continuously take toys away from you?
 
-To see if they're possessive over toys - **Use the same approach as food.** Crouch down close to them if they've got a toy - again try not to be overbearing and non-threatening. Gently move your hand towards the toy. Are they -
+To see if they're possessive over toys - **use the same approach as food.** Crouch down close to them if they've got a toy - again try not to be overbearing and non-threatening. Gently move your hand towards the toy. Are they -
 
 - Focused on you or quickly glancing at you? Hovering over the toy?
 - Heckles up?
@@ -310,14 +310,14 @@ If it feels safe to do so and you haven't seen any potentially possessive behavi
 - Do they ignore you?
 - Does it turn into a game when you try and call them?
 
-**No matter how perfect their recall is - Always note to keep them on lead for at least 8-12 weeks.** This will allow time to -
+**No matter how perfect their recall is - always note to keep them on lead for at least 8-12 weeks.** This will allow time to -
 
 - Build a solid foundation of trust with their owners
 - Work on their recall
 - Familiarise themselves with their surroundings
 - Socialise with other dogs/people under control
 
-With very very nervous dogs the time scale to keep on lead will increase to **6 Months Minimum - Especially dogs that could be a flight risk.**
+With very very nervous dogs the time scale to keep on lead will increase to **6 months minimum - especially dogs that could be a flight risk.**
 
 With dog aggressive dogs, always advise to keep on lead and avoid popular dog walking areas and to avoid wide open spaces - e.g. the beach.
 
@@ -356,14 +356,14 @@ When walking them, take them to the end of the drive to see how they are with tr
 
 ## Notes Section
 
-In the Notes Section, you can recap on any issues seen and can go into detail of what socialisation is required (Dog, People, all round general socialisation with the outside world).
+In the notes section, you can recap on any issues seen and can go into detail of what socialisation is required (Dog, People, all round general socialisation with the outside world).
 
 - Is the dog fine with being left alone?
 - Do they panic when being left?
 - **Do they try and chase you out of the kennel or are they vocal?** If so, then they will struggle being alone in the home and will require guidance on separation anxiety.
 
-**If there are any Aggressive or Possessive Behaviours witnessed during the assessment that staff weren't already aware about - make sure it's Written on their Boards and make sure everyone is Fully Aware of Them.**
+**If there are any aggressive or possessive behaviours witnessed during the assessment that staff weren't already aware about - make sure it's written on their boards and make sure everyone is fully aware of them.**
 
-**Be Sure To Write the Date of the Assessment Down!**
+**Be sure to write the date of the assessment down!**
 
 If at any point of the assessment you feel you need a second opinion, or are not confident or are uncertain on any behaviours seen, there's absolutely no harm or shame in asking another handler to re-do a certain part of the assessment if you were unsure.

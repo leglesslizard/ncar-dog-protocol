@@ -13,7 +13,7 @@ You need to know as much about the individual dogs as possible.
 - Neutered/Spayed? If not, it may not work as males will usually keep trying to mount - it's quite rare it works with unneutered males.
 - Are they comfortable with other dogs on lead? How do they react? Have they been off lead with other dogs - if so, how are they? Have they ever had other dogs inside the home with them?
 - Are they toy orientated/possessive? If possessive, make sure all toys are removed from the paddock beforehand - same goes for toy/ball obsessed dogs! If they find a ball that's all they want to do and it's difficult to get a read on the dogs.
-- Are they comfortable with fast moving traffic? (For offsite walks.) If not then walk calmly around the sensory garden.
+- Are they comfortable with fast moving traffic? (for offsite walks.) If not then walk calmly around the sensory garden.
 - How do they react when being told off by other dogs?
 - If a dog is too much for them will they tell it off?
 - Have they ever had any negative altercations with other dogs?
@@ -41,9 +41,9 @@ DO NOT RUSH IT - YOU COULD SET THEM UP TO FAIL<br><br>
 If you rush it and let them meet straight away, and it starts with a close negative panic reaction (snap, bark, lunge, panic etc) within the first few minutes, it's incredibly hard to recover from that as their dog will be very nervous and defensive.
 </div>
 
-**ALWAYS ALWAYS have the Less confident dog walking a good distance BEHIND the More confident dog.**
+**ALWAYS ALWAYS have the less confident dog walking a good distance BEHIND the more confident dog.**
 
-In nearly every single case, it's the Client's dog who will be the more nervous one being new to the rescue - even if the client insists they're confident, you can guarantee they will, at least, be a little on edge being in the rescue environment.
+In nearly every single case, it's the client's dog who will be the more nervous one being new to the rescue - even if the client insists they're confident, you can guarantee they will, at least, be a little on edge being in the rescue environment.
 
 **If you're unsure, have the client's dog behind you anyway.**
 
@@ -57,7 +57,7 @@ Ask the clients to follow where you're walking so they can follow the other dog'
 
 **What you're looking for is relaxed and calm behaviour from the dogs - losing focus of the dog in front, turning their back on them, sniffing, exploring, toileting, possible excitable behaviour and relaxed posture.**
 
-Once both dogs are displaying calming signs you can start to decrease the distance with the 2 dogs. Do Not Rush This! It may take a few minutes.......half an hour...an hour for them to settle - if they don't at all then it's not going to work.
+Once both dogs are displaying calming signs you can start to decrease the distance with the 2 dogs. Do not rush this! It may take a few minutes.......half an hour...an hour for them to settle - if they don't at all then it's not going to work.
 
 ### Look out for Avoidance Behaviour
 
@@ -67,25 +67,25 @@ You may be happy walking alongside strangers in the street - doesn't mean you wa
 
 Look out for subtle and sharp eye movements from the dogs. If they're displaying this, then they're unsettled with them and are still learning to trust them and want to keep an eye on them.
 
-**It's best and safer to walk them out the lane and turn Right up the road - the road is wider and there are more laybys to calmly let them interact if, and when, they're ready to do so. For a longer walk, when you get to the crossroads, take the Left and walk along there - it's usually very calm up there.**
+**It's best and safer to walk them out the lane and turn right up the road - the road is wider and there are more laybys to calmly let them interact if, and when, they're ready to do so. For a longer walk, when you get to the crossroads, take the left and walk along there - it's usually very calm up there.**
 
 ---
 
 ## Letting Them Interact on Walks
 
-**When you feel they're ready to interact when they're both calm - Keep it Brief initially.**
+**When you feel they're ready to interact when they're both calm - keep it brief initially.**
 
-When they go nose to nose - keep it to Literally 1 second maximum before quickly encouraging them to continue walking.
+When they go nose to nose - keep it to literally 1 second maximum before quickly encouraging them to continue walking.
 
 Any longer than 1 second nose to nose and it will create tension between the 2 dogs - the more nervous one will most likely give -
 
-- A Warning Snap
+- A warning snap
 
 OR
 
 - **They will both explode in play together.**
 
-**But more likely to Snap especially the first time meeting each other properly.**
+**But more likely to snap especially the first time meeting each other properly.**
 
 Try not to pull them away with the lead as you could cause them to react - instead really encourage them to continue walking with a forward motion and keep it fun and light.
 
@@ -95,11 +95,11 @@ You want them to interact positively - sniff each other (at the same time '69' i
 
 **Interacting and calmly moving around each other is perfect.**
 
-**Be Very Very Careful not to get the Leads Tangled.**
+**Be very very careful not to get the leads tangled.**
 
 When the dogs interact, they may circle each other or quickly spin/play around each other. You may need to quickly walk around them, at the same pace as them, to stop the leads getting tangled if they're spinning whilst interacting.
 
-If they get tangled and become trapped very close to each other - They will quickly panic and snap at each other - which could result in a dog fight if not sorted quickly. Make sure the owners are pre-warned about this and they walk around with you too.
+If they get tangled and become trapped very close to each other - they will quickly panic and snap at each other - which could result in a dog fight if not sorted quickly. Make sure the owners are pre-warned about this and they walk around with you too.
 
 ---
 
@@ -142,10 +142,10 @@ Dogs will try varied techniques to get the other dog to play:
 - Play Bowing
 - Resting their head on the other dog's shoulders
 - Play Nipping
-- Vocal - Barking/Growling
+- Vocal - barking/growling
 - Play Zoomies
-- Hitting with Paws
-- Chasing with Toys
+- Hitting with paws
+- Chasing with toys
 - Loose body postures
 - Body Slamming
 
@@ -161,9 +161,9 @@ What you're looking for is the dogs to be able to read each other well, have pla
 
 You may have a mix where you have two large dogs of a similar temperament - e.g. both very playful and boisterous - in this case have them both on a lead to control the situation if needs be.
 
-Once you feel the dogs are very relaxed with each other, and there's no tension and it Feels Safe to do so, you can keep them attached to the long line but let go of the lead. So the lead trails behind them so you can pick it up and control the situation quickly if required.
+Once you feel the dogs are very relaxed with each other, and there's no tension and it feels safe to do so, you can keep them attached to the long line but let go of the lead. So the lead trails behind them so you can pick it up and control the situation quickly if required.
 
-**Do Not Rush This.**
+**Do not rush this.**
 
 **You may feel it's not safe to get to this stage if the dogs are too nervous or ours is too intense.**
 
@@ -171,7 +171,7 @@ Once you feel the dogs are very relaxed with each other, and there's no tension 
 
 This is where you will get your exercise in and you need to be sure to stay close to them in-case you need to quickly engage or de-escalate any overly boisterous play.
 
-**Again - Do Not Rush This.**
+**Again - do not rush this.**
 
 Take your time with it - let them get used to each other with the lead trailing loose first, it's always a big step letting them go completely off lead together. You may spot behaviours preventing you from letting them off lead completely together. Allow plenty of time to see how they are with each other.
 
@@ -190,9 +190,9 @@ They may burst into play and start bombing it round, or be very wary and uncerta
 
 Be cautious and keep a sharp eye as -
 
-- Play can quickly turn to Fear.
-- Fear can turn into Panic.
-- Panic can turn into Aggression.
+- Play can quickly turn to fear.
+- Fear can turn into panic.
+- Panic can turn into aggression.
 
 **This is where you will DEFINITELY get your exercise in as you need to be sure to stay close to them in-case you need to quickly engage or de-escalate any overly boisterous play.**
 
@@ -248,11 +248,11 @@ You may spot issues in the unit that you wouldn't spot in the paddock. You will 
 
 ## What Owners Need to Know When Taking the Dogs Home
 
-Make sure the dogs meet each other for the first time again on the road outside the home - Never inside the home. It's neutral territory outside the home.
+Make sure the dogs meet each other for the first time again on the road outside the home - never inside the home. It's neutral territory outside the home.
 
 They won't be expecting to see each other and may not recognise each other initially. Go for a 20min calm walk before walking in the home together. This allows them to get re-acquainted and settled together again.
 
-Keep the lead on the new dog and introduce them to the garden and spend a few minutes in each room. They may be a little nervous whereas the other dog will be quite confident and maybe excitable. The key word is Calm. Take everything slow and don't rush the new dog.
+Keep the lead on the new dog and introduce them to the garden and spend a few minutes in each room. They may be a little nervous whereas the other dog will be quite confident and maybe excitable. The key word is calm. Take everything slow and don't rush the new dog.
 
 ### Owner Possession
 
@@ -270,7 +270,7 @@ If the dogs are toy orientated, it may be best to keep toys out of the equation 
 
 ### Feeding Separately
 
-Before the dogs are rehomed - Always tell owners to feed the dogs in completely separate rooms for At Least the following 4 months, indefinitely.
+Before the dogs are rehomed - always tell owners to feed the dogs in completely separate rooms for at least the following 4 months, indefinitely.
 
 It takes so much trust for a dog to eat next to an unfamiliar dog and if there's going to be an altercation - it will most likely be over food.
 
@@ -286,7 +286,7 @@ Any overly boisterous behaviour - overly vocal, mouthing, play nipping - make su
 
 ### Sleeping Arrangements
 
-It's best to have the new dog to the home downstairs in the living room/kitchen area - Definitely Not in the Bedroom.
+It's best to have the new dog to the home downstairs in the living room/kitchen area - definitely not in the bedroom.
 
 Ideally sleeping apart from the other dog initially - this may help them settle. When they're together it needs to be supervised for the first few days as that's going to be the most testing time. Some dogs may be possessive over the sofa spot / dog bed.
 
@@ -294,7 +294,7 @@ Ideally sleeping apart from the other dog initially - this may help them settle.
 
 ## Mixing 3+ Dogs
 
-**Always Have the Same Ratio of Dogs to People When Mixing.**
+**Always have the same ratio of dogs to people when mixing.**
 
 When mixing 3 or more dogs, the process is exactly the same. Make sure you know the dogs and which one is the more confident one.
 
@@ -304,7 +304,7 @@ When it comes to letting them interact on a walk, let the more confident one int
 
 Be extra cautious when going into the paddock and extra vigilant on the dogs to spot any wary behaviour. You may want to do one at a time in the paddock.
 
-If it goes very wrong - you could potentially have a Two on One dog attack scenario as the dogs will most likely defend one another if they're closely bonded.
+If it goes very wrong - you could potentially have a two on one dog attack scenario as the dogs will most likely defend one another if they're closely bonded.
 
 If the mixes go very well, ensure that 4+ mixes are done to fully secure a foundation of trust and understanding with them all.
 
@@ -314,7 +314,7 @@ If the mixes go very well, ensure that 4+ mixes are done to fully secure a found
 
 It can be a big ask for an older dog to live with a lively youngster. Almost like expecting an elderly grandmother to look after a toddler.
 
-**Your Sole Priority Needs to be Focused on the Older Dog.**
+**Your sole priority needs to be focused on the older dog.**
 
 Any sign of stress or if the younger one is too much for them in any way then it's an automatic no - otherwise it's not fair on the older dog.
 
@@ -338,8 +338,8 @@ If something doesn't feel right or feels tense but you can't quite pin-point why
 
 **If you're doing a mix and you feel unsure of the dynamics and need a fresh pair of eyes to evaluate the situation, there's absolutely no harm or shame to ask for a second opinion - 2+ pairs of eyes are better than 1.**
 
-**You will sometimes get very pushy clients that will insist it's going fine and the dogs will "sort themselves out" (Always a red flag) and will push you to say yes to taking the dog home, when you don't feel it's going well.**
+**You will sometimes get very pushy clients that will insist it's going fine and the dogs will "sort themselves out" (always a red flag) and will push you to say yes to taking the dog home, when you don't feel it's going well.**
 
 Stand your ground and never be afraid to say no. If it's not right then it's not right and not fair on the dogs. Sometimes they don't put the well being of their dogs first or they don't see that their dog is blatantly uncomfortable with the situation.
 
-**The dogs' welfare always comes first. Don't be worried to say No.**
+**The dogs' welfare always comes first. Don't be worried to say no.**

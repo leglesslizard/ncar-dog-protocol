@@ -5,7 +5,7 @@ url: ""
 
 # Build settings
 markdown: kramdown
-permalink: /:categories/:year/:month/:day/:title/
+permalink: /:categories/:title/
 
 # Exclude from processing
 exclude:
