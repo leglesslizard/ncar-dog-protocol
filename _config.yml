@@ -1,11 +1,11 @@
 title: NCAR Dog Protocols
 description: Dog handling protocols for staff and volunteers
-baseurl: ""
+baseurl: "/ncar-dog-protocol"
 url: ""
 
 # Build settings
 markdown: kramdown
-permalink: /:categories/:title/
+permalink: /:title/
 
 # Exclude from processing
 exclude:
