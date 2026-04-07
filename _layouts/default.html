@@ -63,5 +63,25 @@
   <footer>
     <p>NCAR Dog Protocols</p>
   </footer>
+  <script>
+    (function() {
+      const correct = 'JPGPIEncar88';
+      const stored = sessionStorage.getItem('auth');
+
+      if ( stored !== correct ) {
+        document.body.style.display = 'none';
+
+        const password = prompt( 'Enter password to access this site:' );
+
+        if ( password === correct ) {
+          sessionStorage.setItem( 'auth', correct );
+          document.body.style.display = '';
+        } else {
+          document.body.innerHTML = '<p style="font-family:sans-serif;text-align:center;margin-top:4rem;">Incorrect password.</p>';
+          document.body.style.display = '';
+        }
+      }
+    })();
+  </script>
 </body>
 </html>
