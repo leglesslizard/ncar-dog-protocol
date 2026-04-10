@@ -3,6 +3,12 @@ layout: post
 title: "Taking Dogs to the Vets"
 date: 2026-04-05
 order: 4
+summary:
+  - "Your role is to protect the vet — the dog must be well restrained at all times."
+  - "Maintain complete control of the dog's head, especially when the vet is close with a stethoscope."
+  - "If wearing a collar, tuck your fingers underneath it for full control. If not, wrap the lead around its neck."
+  - "Stay relaxed — keep it light and positive. We want the dog to have a pleasant experience."
+  - "NEVER get complacent with any breed or any age — any dog can react negatively, unexpectedly and quickly."
 ---
 
 When a dog is taken to the vets for the first time, we have no idea how the dog will react.

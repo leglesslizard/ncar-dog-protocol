@@ -3,6 +3,16 @@ layout: post
 title: "Mixing Dogs"
 date: 2026-04-05
 order: 6
+summary:
+  - "Know the dogs before you begin — temperament, history, neutered status, toy and food possession."
+  - "Always walk first — less confident dog walking a good distance behind the more confident dog (20m+)."
+  - "DO NOT RUSH — a bad first reaction is very hard to recover from."
+  - "Keep first nose-to-nose contact to 1 second maximum, then encourage walking on."
+  - "Play can turn to fear, fear to panic, panic to aggression — always intervene early."
+  - "Always do at least 3 mixes to build a solid foundation of trust before the dogs go home together."
+  - "Owners: first meet on neutral territory outside the home, never inside. The key word is calm."
+  - "Feed in completely separate rooms for at least 4 months. No bones or long-lasting treats for several months."
+  - "GO WITH YOUR GUT — if something doesn't feel right, there is probably a good reason why."
 ---
 
 ## Before You Begin

@@ -3,6 +3,15 @@ layout: post
 title: "Introducing Very Nervous/Reactive Dogs to Strangers"
 date: 2026-04-05
 order: 3
+summary:
+  - "LESS IS MORE — the less attention strangers give, the more the dog will trust them."
+  - "Have new people walking ahead, completely ignoring the dog — no eye contact, no touching, no talking."
+  - "Walk the dog behind them at a safe distance (10m+) and let the dog assess at its own pace."
+  - "Only begin decreasing the distance when the dog is relaxed and showing calming signals."
+  - "Always keep yourself physically between the dog and the people at all times."
+  - "Progress to treats on the floor, then hand feeding — only if the dog is very settled at each stage."
+  - "Remind people repeatedly not to give affection — if trust breaks you will have to start over and it will be harder."
+  - "Every dog is different — this may take a few minutes or several sessions. Do not rush it."
 ---
 
 The most important aspect of introducing nervous/stranger reactive dogs to people, is that they're handled correctly.

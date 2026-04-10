@@ -3,6 +3,15 @@ layout: post
 title: "Dog Behaviour Assessment Guide"
 date: 2026-04-05
 order: 5
+summary:
+  - "Always protect your face and neck during every part of the assessment."
+  - "Be relaxed and keep it light — you are only seeing if there is a reaction, not pushing for one."
+  - "All wary behaviours stem from the eyes — watch for stiff posture, hovering over food, snarling, growling."
+  - "Food possession test: stand/crouch side on, avoid eye contact, move slowly. Stop at the first sign of any tension."
+  - "Stray dogs: children aged 5+ only. Nervous, possessive or aggressive dogs: 16+ or adult only home."
+  - "Always check with the kennel supervisor before deciding what age children a dog can live with."
+  - "Minimum 8–12 weeks on lead after rehoming. Very nervous dogs or flight risks: 6 months minimum."
+  - "Write the date of the assessment and note any aggressive or possessive behaviours on the dog's board."
 ---
 
 All dogs require a behaviour assessment before going to a home.

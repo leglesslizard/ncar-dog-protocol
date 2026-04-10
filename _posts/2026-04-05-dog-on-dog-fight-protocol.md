@@ -3,6 +3,14 @@ layout: post
 title: "Dog on Dog Fight Protocol"
 date: 2026-04-05
 order: 1
+summary:
+  - "Shout your location over the radio immediately — repeat it several times before explaining anything."
+  - "NEVER PULL THEM APART — PIN the attacking dog's head so it cannot move at all."
+  - "Keep your own face and neck well away at all times."
+  - "To release the grip: choke the attacker off using the collar (twist tight) or a slip lead placed at the top of its neck."
+  - "Once released, get the attacker well clear, then revive it by stroking rapidly and massaging its neck."
+  - "If you are walking a dog when the alarm goes — secure your own dog first, don't panic and create a second situation."
+  - "After the incident: check both dogs for injuries. Take the attacker for a calm walk off site — do not put it straight back in its kennel."
 ---
 
 If you are involved in a dangerous situation, like a dog fight/dog attack, the most important and vital piece of information everyone on site needs to know immediately is -

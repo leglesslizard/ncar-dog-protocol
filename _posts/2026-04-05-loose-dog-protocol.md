@@ -3,6 +3,14 @@ layout: post
 title: "Loose Dog Protocol"
 date: 2026-04-05
 order: 2
+summary:
+  - "Shout 'Loose Dog' over the radio immediately — name the dog and where it is heading."
+  - "Closest person to the Main Large Silver Gate: close it immediately."
+  - "DO NOT directly chase a dog that is facing you — walk calmly but efficiently around them."
+  - "If you are walking your own dog: focus on your own dog first. Stay well clear and keep it safe."
+  - "If a dog aggressive loose dog is heading towards you: put your dog behind you and scare the loose dog away (shout, stamp feet)."
+  - "Usher all members of public and volunteers inside immediately if a stranger aggressive dog is loose."
+  - "Prevention: keep your hand through the lead loop, keep the toggle down on slip leads, always close doors and gates behind you."
 ---
 
 If you're walking a dog and it gets loose from you, relax, crouch down and try calling it back to you. There's a good chance it will run back towards you.
