@@ -144,8 +144,14 @@ permalink: /dogs/
     color: #555;
     display: flex;
     flex-wrap: wrap;
-    column-gap: 0.75rem;
+    column-gap: 0;
     row-gap: 0.1rem;
+  }
+
+  .dog-meta span + span::before {
+    content: "·";
+    color: #bbb;
+    margin: 0 0.4rem;
   }
 
   .dog-notes {
