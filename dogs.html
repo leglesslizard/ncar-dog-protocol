@@ -129,18 +129,26 @@ permalink: /dogs/
     margin: 0.2rem 0;
   }
 
-  .dog-link {
+  .show-info-btn {
     display: block;
+    width: 100%;
     margin-top: auto;
-    padding-top: 0.75rem;
+    padding: 0.6rem 0;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 0.8rem;
-    color: #777;
-    text-decoration: none;
+    font-size: 0.85rem;
+    font-weight: bold;
+    color: #2c2c2c;
+    background: none;
+    border: none;
     border-top: 1px solid #eee;
+    cursor: pointer;
+    text-align: center;
+    letter-spacing: 0.02em;
   }
 
-  .dog-link:hover { color: #1a1a1a; }
+  .show-info-btn:hover {
+    background: #f0ede8;
+  }
 
   .dogs-empty {
     font-family: Arial, Helvetica, sans-serif;
@@ -148,9 +156,82 @@ permalink: /dogs/
     text-align: center;
     padding: 4rem 0;
   }
+
+  /* Modal */
+  .dog-modal-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1.5rem;
+    z-index: 1000;
+  }
+
+  .dog-modal-overlay[hidden] { display: none; }
+
+  .dog-modal-box {
+    background: #fff;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 600px;
+    max-height: 85vh;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.25);
+  }
+
+  .dog-modal-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.25rem 1.5rem;
+    border-bottom: 1px solid #eee;
+    flex-shrink: 0;
+  }
+
+  .dog-modal-header h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.4rem;
+    font-weight: bold;
+    margin: 0;
+    color: #1a1a1a;
+  }
+
+  .dog-modal-close {
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    line-height: 1;
+    cursor: pointer;
+    color: #888;
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+  }
+
+  .dog-modal-close:hover { color: #1a1a1a; background: #f0ede8; }
+
+  .dog-modal-body {
+    padding: 1.25rem 1.5rem;
+    overflow-y: auto;
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 1rem;
+    line-height: 1.7;
+    color: #1a1a1a;
+  }
+
+  .dog-modal-body p {
+    margin: 0 0 1rem;
+  }
+
+  .dog-modal-body p:last-child {
+    margin-bottom: 0;
+  }
 </style>
 
-<a class="back-link" href="{{ '/' | relative_url }}">&#8592; All Protocols</a>
+<a class="back-link" href="{{ '/' | relative_url }}">&#8592; Home</a>
 
 <div class="dogs-page-header">
   <h1>Dogs for Adoption</h1>
@@ -174,7 +255,7 @@ permalink: /dogs/
     {% endif %}
     <div class="dog-body">
       <h2 class="dog-name">{{ dog.name }}</h2>
-      {% if dog.status %}
+      {% if dog.status != blank %}
       <span class="dog-status">{{ dog.status }}</span>
       {% endif %}
       <div class="dog-meta">
@@ -189,9 +270,68 @@ permalink: /dogs/
         {% endfor %}
       </ul>
       {% endif %}
-      <a href="{{ dog.url }}" target="_blank" rel="noopener" class="dog-link">View full profile on NCAR ↗</a>
+      {% if dog.description.size > 0 %}
+      <button class="show-info-btn" data-dog="{{ forloop.index }}">Show info</button>
+      {% endif %}
     </div>
   </div>
   {% endfor %}
 </div>
+
+<!-- Hidden description content, one per dog -->
+{% for dog in site.data.dogs %}
+{% if dog.description.size > 0 %}
+<div id="dog-desc-{{ forloop.index }}" hidden>
+  {% for para in dog.description %}<p>{{ para }}</p>
+  {% endfor %}
+</div>
+{% endif %}
+{% endfor %}
+
+<!-- Shared modal -->
+<div id="dog-modal-overlay" class="dog-modal-overlay" hidden>
+  <div class="dog-modal-box">
+    <div class="dog-modal-header">
+      <h2 id="dog-modal-name"></h2>
+      <button class="dog-modal-close" id="dog-modal-close">&#215;</button>
+    </div>
+    <div class="dog-modal-body" id="dog-modal-body"></div>
+  </div>
+</div>
+
+<script>
+  function openDogModal( index ) {
+    const descEl = document.getElementById( 'dog-desc-' + index );
+    const btn = document.querySelector( '[data-dog="' + index + '"]' );
+    const name = btn.closest( '.dog-card' ).querySelector( '.dog-name' ).textContent;
+
+    document.getElementById( 'dog-modal-name' ).textContent = name;
+    document.getElementById( 'dog-modal-body' ).innerHTML = descEl ? descEl.innerHTML : '';
+
+    const overlay = document.getElementById( 'dog-modal-overlay' );
+    overlay.removeAttribute( 'hidden' );
+    document.body.style.overflow = 'hidden';
+  }
+
+  function closeDogModal() {
+    document.getElementById( 'dog-modal-overlay' ).setAttribute( 'hidden', '' );
+    document.body.style.overflow = '';
+  }
+
+  document.querySelectorAll( '.show-info-btn' ).forEach( function( btn ) {
+    btn.addEventListener( 'click', function() {
+      openDogModal( this.dataset.dog );
+    } );
+  } );
+
+  document.getElementById( 'dog-modal-close' ).addEventListener( 'click', closeDogModal );
+
+  document.getElementById( 'dog-modal-overlay' ).addEventListener( 'click', function( e ) {
+    if ( e.target === this ) closeDogModal();
+  } );
+
+  document.addEventListener( 'keydown', function( e ) {
+    if ( 'Escape' === e.key ) closeDogModal();
+  } );
+</script>
 {% endif %}

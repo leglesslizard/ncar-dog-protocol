@@ -1,158 +1,99 @@
 ---
 layout: default
-title: NCAR Dog Protocols
+title: NCAR Information
 ---
 <style>
-  .index-header {
+  .home-header {
     margin-bottom: 2.5rem;
     padding-bottom: 1.5rem;
     border-bottom: 3px solid #2c2c2c;
   }
 
-  .index-header h1 {
+  .home-header h1 {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 2rem;
     font-weight: bold;
-    margin: 0 0 0.5rem;
+    margin: 0 0 0.4rem;
   }
 
-  .index-header p {
+  .home-header p {
     color: #555;
     font-size: 1rem;
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
   }
 
-  .protocol-list {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    counter-reset: protocol-counter;
-  }
-
-  .protocol-list li {
-    counter-increment: protocol-counter;
-    border-bottom: 1px solid #ddd;
-  }
-
-  .protocol-list li:first-child {
-    border-top: 1px solid #ddd;
-  }
-
-  .protocol-list a {
-    display: flex;
-    align-items: center;
+  .home-nav {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
     gap: 1.25rem;
-    padding: 1.25rem 0.5rem;
-    text-decoration: none;
-    color: #1a1a1a;
-    transition: background 0.15s;
   }
 
-  .protocol-list a:hover {
-    background: #f0ede8;
+  @media (max-width: 560px) {
+    .home-nav { grid-template-columns: 1fr; }
   }
 
-  .protocol-list a::before {
-    content: counter(protocol-counter);
+  .home-nav-card {
     display: flex;
-    align-items: center;
-    justify-content: center;
-    min-width: 2.25rem;
-    height: 2.25rem;
-    background: #2c2c2c;
-    color: #fff;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 0.95rem;
-    font-weight: bold;
-    border-radius: 50%;
-    flex-shrink: 0;
-  }
-
-  .protocol-list .title {
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: bold;
-    font-size: 1.1rem;
-  }
-
-  .dogs-nav {
-    margin-top: 2rem;
-    border-top: 1px solid #ddd;
-    padding-top: 1.5rem;
-  }
-
-  .dogs-nav-label {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 0.75rem;
-    font-weight: bold;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    color: #888;
-    margin: 0 0 0.75rem;
-  }
-
-  .dogs-nav-link {
-    display: flex;
-    align-items: center;
+    flex-direction: column;
     justify-content: space-between;
-    gap: 1rem;
-    padding: 1rem 1rem 1rem 1.25rem;
+    padding: 1.75rem 1.5rem;
     background: #fff;
     border: 1px solid #e0ddd9;
-    border-radius: 8px;
+    border-radius: 10px;
     text-decoration: none;
     color: #1a1a1a;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.06);
-    transition: background 0.15s;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.07);
+    transition: background 0.15s, box-shadow 0.15s;
+    min-height: 160px;
   }
 
-  .dogs-nav-link:hover {
+  .home-nav-card:hover {
     background: #f0ede8;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
   }
 
-  .dogs-nav-link .title {
+  .home-nav-card-title {
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.3rem;
     font-weight: bold;
-    font-size: 1.1rem;
+    margin: 0 0 0.5rem;
   }
 
-  .dogs-nav-link .subtitle {
+  .home-nav-card-desc {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 0.85rem;
-    color: #777;
-    margin-top: 0.15rem;
+    font-size: 0.9rem;
+    color: #666;
+    margin: 0;
+    line-height: 1.4;
   }
 
-  .dogs-nav-link .arrow {
-    font-size: 1.25rem;
+  .home-nav-card-arrow {
+    font-size: 1.4rem;
     color: #aaa;
-    flex-shrink: 0;
+    margin-top: 1.25rem;
+    align-self: flex-end;
   }
 </style>
 
-<div class="index-header">
-  <h1>Dog Protocols</h1>
-  <p>Staff and volunteer handling protocols</p>
+<div class="home-header">
+  <h1>NCAR Information</h1>
+  <p>Staff and volunteer reference</p>
 </div>
 
-<ul class="protocol-list">
-  {% assign posts = site.posts | sort: 'order' %}
-  {% for post in posts %}
-    <li>
-      <a href="{{ post.url | relative_url }}">
-        <span class="title">{{ post.title }}</span>
-      </a>
-    </li>
-  {% endfor %}
-</ul>
-
-<div class="dogs-nav">
-  <p class="dogs-nav-label">Quick Reference</p>
-  <a href="{{ '/dogs/' | relative_url }}" class="dogs-nav-link">
+<nav class="home-nav">
+  <a href="{{ '/protocols/' | relative_url }}" class="home-nav-card">
     <div>
-      <div class="title">Dogs for Adoption</div>
-      <div class="subtitle">Breed, age, sex and notes for all current dogs</div>
+      <div class="home-nav-card-title">Dog Protocols</div>
+      <p class="home-nav-card-desc">Handling protocols for dog fights, loose dogs, vet visits, behaviour assessments and more.</p>
     </div>
-    <span class="arrow">&#8594;</span>
+    <span class="home-nav-card-arrow">&#8594;</span>
   </a>
-</div>
+  <a href="{{ '/dogs/' | relative_url }}" class="home-nav-card">
+    <div>
+      <div class="home-nav-card-title">Dogs for Adoption</div>
+      <p class="home-nav-card-desc">Quick reference for all current dogs — breed, age, sex and key notes.</p>
+    </div>
+    <span class="home-nav-card-arrow">&#8594;</span>
+  </a>
+</nav>

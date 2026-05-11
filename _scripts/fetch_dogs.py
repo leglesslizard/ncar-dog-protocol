@@ -101,6 +101,18 @@ def parse_dog_page(url):
         if text:
             notes.append(text)
 
+    # Description — plain <p> siblings that follow the main data-block columns div
+    description = []
+    content_div = soup.find("div", class_="entry-content")
+    if content_div:
+        data_block = content_div.find("div", attrs={"data-block": True})
+        if data_block:
+            for el in data_block.find_next_siblings():
+                if el.name == "p":
+                    text = el.get_text(strip=True)
+                    if text:
+                        description.append(text)
+
     return {
         "image": image,
         "status": status,
@@ -108,6 +120,7 @@ def parse_dog_page(url):
         "sex": sex,
         "breed": breed,
         "notes": notes,
+        "description": description,
     }
 
 
@@ -130,6 +143,7 @@ def main():
                 "sex": None,
                 "breed": None,
                 "notes": [],
+                "description": [],
             })
         time.sleep(0.5)
 
