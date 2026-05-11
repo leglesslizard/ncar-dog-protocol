@@ -255,7 +255,7 @@ permalink: /dogs/
     {% endif %}
     <div class="dog-body">
       <h2 class="dog-name">{{ dog.name }}</h2>
-      {% if dog.status != blank %}
+      {% if dog.status and dog.status != "" %}
       <span class="dog-status">{{ dog.status }}</span>
       {% endif %}
       <div class="dog-meta">

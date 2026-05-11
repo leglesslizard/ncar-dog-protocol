@@ -76,7 +76,8 @@ def parse_dog_page(url):
     status = None
     status_p = soup.find("p", class_="has-palette-color-1-color")
     if status_p:
-        status = status_p.get_text(strip=True).title()
+        text = status_p.get_text(strip=True)
+        status = text.title() if text else None
 
     # Age, Sex, Breed — located by their <strong> label
     age = sex = breed = None
@@ -101,17 +102,21 @@ def parse_dog_page(url):
         if text:
             notes.append(text)
 
-    # Description — plain <p> siblings that follow the main data-block columns div
+    # Description — plain <p> direct children of entry-content after the data-block div
     description = []
     content_div = soup.find("div", class_="entry-content")
     if content_div:
-        data_block = content_div.find("div", attrs={"data-block": True})
-        if data_block:
-            for el in data_block.find_next_siblings():
-                if el.name == "p":
-                    text = el.get_text(strip=True)
-                    if text:
-                        description.append(text)
+        past_data_block = False
+        for child in content_div.children:
+            if not hasattr(child, "name") or child.name is None:
+                continue
+            if child.name == "div" and child.has_attr("data-block"):
+                past_data_block = True
+                continue
+            if past_data_block and child.name == "p":
+                text = child.get_text(strip=True)
+                if text:
+                    description.append(text)
 
     return {
         "image": image,
