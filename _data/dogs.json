@@ -1,1 +1,677 @@
-[]
+[
+  {
+    "name": "Nova",
+    "url": "https://ncar.org.uk/animals/nova/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/05/IMG_3935.jpeg",
+    "status": "",
+    "age": "4 years old approx",
+    "sex": "Female",
+    "breed": "Collie cross",
+    "notes": []
+  },
+  {
+    "name": "Kira",
+    "url": "https://ncar.org.uk/animals/kira/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/05/942DD91E-A88F-4673-BFE0-B37B85CBF4EF-e1777992218474.jpeg",
+    "status": "",
+    "age": "4 years old approx",
+    "sex": "Female",
+    "breed": "French Bulldog",
+    "notes": [
+      "can live with older children",
+      "can live with other dogs",
+      "friendly with dogs",
+      "friendly with strangers"
+    ]
+  },
+  {
+    "name": "Lola2  – appointment booked",
+    "url": "https://ncar.org.uk/animals/lola2/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/05/IMG_3816.jpeg",
+    "status": "",
+    "age": "1 year old",
+    "sex": "Female",
+    "breed": "Chihuahua x Frenchie x Pug",
+    "notes": []
+  },
+  {
+    "name": "Jem",
+    "url": "https://ncar.org.uk/animals/jem/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/05/9D80B17B-33CA-4563-B58A-64BE472FF3F1.jpeg",
+    "status": "",
+    "age": "1 year approx",
+    "sex": "Female",
+    "breed": "Lurcher",
+    "notes": []
+  },
+  {
+    "name": "Pickle",
+    "url": "https://ncar.org.uk/animals/pickle/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/04/IMG_3641.jpeg",
+    "status": "",
+    "age": "",
+    "sex": "Male",
+    "breed": "",
+    "notes": []
+  },
+  {
+    "name": "Georgie",
+    "url": "https://ncar.org.uk/animals/georgie/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/04/IMG_2269-e1775567344673.jpeg",
+    "status": "",
+    "age": "9 years old",
+    "sex": "Female",
+    "breed": "St Bernard",
+    "notes": [
+      "friendly with strangers",
+      "good on the lead",
+      "can’t live with cats",
+      "can't live with young children"
+    ]
+  },
+  {
+    "name": "Winston – Appointment booked",
+    "url": "https://ncar.org.uk/animals/winston/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/04/C8472642-9145-4C56-9744-F4550C601E81.jpeg",
+    "status": "",
+    "age": "1 year 3 months",
+    "sex": "Male",
+    "breed": "Jack Russell",
+    "notes": []
+  },
+  {
+    "name": "Jim",
+    "url": "https://ncar.org.uk/animals/jim/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/04/D33D46A3-C73B-4493-AA45-A7F750F9AAE5.jpeg",
+    "status": "",
+    "age": "2-3 years old",
+    "sex": "Male",
+    "breed": "Lurcher",
+    "notes": [
+      "friendly with dogs",
+      "friendly with strangers",
+      "good on the lead",
+      "can’t live with cats",
+      "can't live with children"
+    ]
+  },
+  {
+    "name": "Chester",
+    "url": "https://ncar.org.uk/animals/chester/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/04/chester2-scaled-e1777555864181.jpeg",
+    "status": "",
+    "age": "1-2 years old",
+    "sex": "Male",
+    "breed": "Lurcher",
+    "notes": [
+      "can live with other dogs",
+      "friendly with strangers",
+      "good on the lead",
+      "can’t live with cats"
+    ]
+  },
+  {
+    "name": "Maverick",
+    "url": "https://ncar.org.uk/animals/maverick/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/04/ae8210bc-b90a-4c60-9c78-a51790385375.jpeg",
+    "status": "",
+    "age": "2 years old",
+    "sex": "Male",
+    "breed": "German Shepherd cross Lurcher",
+    "notes": [
+      "friendly with strangers",
+      "is toilet trained",
+      "can't live with young children"
+    ]
+  },
+  {
+    "name": "Rosie – appointment booked",
+    "url": "https://ncar.org.uk/animals/rosie/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/04/IMG_3161-e1776778941525.jpeg",
+    "status": "",
+    "age": "3-4 years APPROX",
+    "sex": "Female",
+    "breed": "French Bulldog",
+    "notes": [
+      "can live with sensible children",
+      "can live with other dogs",
+      "friendly with dogs",
+      "friendly with strangers",
+      "good on the lead"
+    ]
+  },
+  {
+    "name": "Shadow – Appointment booked",
+    "url": "https://ncar.org.uk/animals/shadow/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/04/IMG_3541.jpeg",
+    "status": "",
+    "age": "3 years old",
+    "sex": "Male",
+    "breed": "Shar-Pei",
+    "notes": []
+  },
+  {
+    "name": "Callie",
+    "url": "https://ncar.org.uk/animals/callie/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/04/IMG_2612.jpeg",
+    "status": "",
+    "age": "6 years 2 months",
+    "sex": "Female",
+    "breed": "Staffie cross",
+    "notes": [
+      "good on the lead",
+      "is toilet trained",
+      "can't live with dogs",
+      "can't live with children"
+    ]
+  },
+  {
+    "name": "Lassie",
+    "url": "https://ncar.org.uk/animals/lassie/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/04/cfc78590-a7fb-49f1-b6a6-3095bbdd49c6.jpeg",
+    "status": "Reserved",
+    "age": "5 years.",
+    "sex": "Female",
+    "breed": "Collie",
+    "notes": [
+      "can live with older children",
+      "friendly with dogs",
+      "friendly with strangers"
+    ]
+  },
+  {
+    "name": "Bunny",
+    "url": "https://ncar.org.uk/animals/bunny/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/04/41e2607e-4dbb-4788-a8af-df4de782e648.jpeg",
+    "status": "",
+    "age": "7 years 5 months",
+    "sex": "Female",
+    "breed": "Lurcher cross",
+    "notes": []
+  },
+  {
+    "name": "Dre",
+    "url": "https://ncar.org.uk/animals/dre/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/04/34cb4057-9bde-4506-be02-6215fa611e13-e1776163922336.jpeg",
+    "status": "",
+    "age": "8 years old",
+    "sex": "Male",
+    "breed": "French Bulldog",
+    "notes": []
+  },
+  {
+    "name": "Ruby",
+    "url": "https://ncar.org.uk/animals/ruby/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/04/9c9565bb-ec64-45ed-9960-fcd5ee2dfa51-e1776168213419.jpeg",
+    "status": "",
+    "age": "1-2 Years approx",
+    "sex": "Female",
+    "breed": "Staffie Cross",
+    "notes": [
+      "friendly with dogs",
+      "friendly with strangers",
+      "good on the lead",
+      "isn't toilet trained"
+    ]
+  },
+  {
+    "name": "Fenrie",
+    "url": "https://ncar.org.uk/animals/fenrie-2/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/03/IMG_0809.jpeg",
+    "status": "",
+    "age": "10 months old approx",
+    "sex": "Male",
+    "breed": "American Bulldog cross",
+    "notes": [
+      "friendly with dogs",
+      "friendly with strangers"
+    ]
+  },
+  {
+    "name": "Hooch",
+    "url": "https://ncar.org.uk/animals/hooch/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/03/IMG_1803.jpeg",
+    "status": "",
+    "age": "6 years old",
+    "sex": "Male",
+    "breed": "Labrador",
+    "notes": [
+      "can live with sensible children",
+      "friendly with dogs",
+      "friendly with strangers",
+      "has lived with children",
+      "has lived with dogs",
+      "is toilet trained"
+    ]
+  },
+  {
+    "name": "Rocky 2",
+    "url": "https://ncar.org.uk/animals/rocky-2/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/03/IMG_1800.jpeg",
+    "status": "",
+    "age": "3 years.",
+    "sex": "Male",
+    "breed": "Labrador",
+    "notes": [
+      "can live with sensible children",
+      "friendly with dogs",
+      "friendly with strangers",
+      "has lived with dogs",
+      "is toilet trained"
+    ]
+  },
+  {
+    "name": "Lily",
+    "url": "https://ncar.org.uk/animals/lily/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/03/IMG_1037.jpeg",
+    "status": "",
+    "age": "6 years old approx",
+    "sex": "Female",
+    "breed": "French Bulldog",
+    "notes": []
+  },
+  {
+    "name": "Sebby – Working with potential owners",
+    "url": "https://ncar.org.uk/animals/sebby/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/01/att.Ej5-tCIByWDd0cjbF9BfhUhpbO_6EpDmjq621NmkyPw-scaled.jpeg",
+    "status": "",
+    "age": "2",
+    "sex": "Male",
+    "breed": "Weimaraner",
+    "notes": [
+      "can live with older children",
+      "friendly with dogs",
+      "friendly with strangers",
+      "can’t live with cats"
+    ]
+  },
+  {
+    "name": "Velma",
+    "url": "https://ncar.org.uk/animals/velma-foster-home-needed/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/03/2E9A2627-7DB3-4E6C-AFF3-15336A6056A0-e1773158027222.jpeg",
+    "status": "In A Foster Home",
+    "age": "4 years old",
+    "sex": "Female",
+    "breed": "Thai Ridgeback",
+    "notes": [
+      "friendly with dogs",
+      "friendly with strangers",
+      "good on the lead",
+      "is toilet trained",
+      "medical issues"
+    ]
+  },
+  {
+    "name": "Drax",
+    "url": "https://ncar.org.uk/animals/drax/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/03/IMG-20260307-WA0031.jpg",
+    "status": "",
+    "age": "1 year, 3 months approx.",
+    "sex": "Male",
+    "breed": "Lurcher",
+    "notes": [
+      "can live with sensible children",
+      "friendly with dogs",
+      "friendly with strangers",
+      "good on the lead",
+      "is toilet trained",
+      "medical issues"
+    ]
+  },
+  {
+    "name": "Jinx",
+    "url": "https://ncar.org.uk/animals/jinx/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2025/11/5187787E-8278-455B-A99E-413B41798601-e1762895641822.jpeg",
+    "status": "",
+    "age": "8 years old",
+    "sex": "Male",
+    "breed": "Lurcher",
+    "notes": [
+      "friendly with strangers",
+      "good on the lead",
+      "is toilet trained",
+      "can’t live with cats",
+      "can't live with dogs",
+      "can't live with young children"
+    ]
+  },
+  {
+    "name": "Crosby",
+    "url": "https://ncar.org.uk/animals/crosby/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/01/3efee098-64f2-404d-9048-ccd79aca242f.jpeg",
+    "status": "",
+    "age": "2 years old approx",
+    "sex": "Male",
+    "breed": "Bulldog cross",
+    "notes": [
+      "can't live with children"
+    ]
+  },
+  {
+    "name": "Taz",
+    "url": "https://ncar.org.uk/animals/taz/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2025/07/IMG_1322-e1755349697533.jpeg",
+    "status": "",
+    "age": "6-7 years old",
+    "sex": "Male",
+    "breed": "Collie x Staffie",
+    "notes": []
+  },
+  {
+    "name": "Tyson",
+    "url": "https://ncar.org.uk/animals/tyson-2/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2025/05/1f75d0d8-1521-410d-874c-e259c846d261-e1747747594315.jpeg",
+    "status": "",
+    "age": "5 years 8 months",
+    "sex": "Male",
+    "breed": "Labrador x Staffie",
+    "notes": [
+      "friendly with strangers",
+      "can’t live with cats",
+      "can't live with dogs"
+    ]
+  },
+  {
+    "name": "Iris",
+    "url": "https://ncar.org.uk/animals/iris/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2025/05/fe6f34fd-8750-44f1-ab80-531183e1b815.jpeg",
+    "status": "",
+    "age": "5 years",
+    "sex": "Female",
+    "breed": "Anatolian shepherd cross",
+    "notes": [
+      "can live with older children",
+      "friendly with strangers",
+      "can’t live with cats",
+      "can't live with dogs"
+    ]
+  },
+  {
+    "name": "Solo",
+    "url": "https://ncar.org.uk/animals/solo-2/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2025/01/IMG_3568.jpeg",
+    "status": "",
+    "age": "3 years old",
+    "sex": "Male",
+    "breed": "Staffie x Boxer",
+    "notes": []
+  },
+  {
+    "name": "Lola",
+    "url": "https://ncar.org.uk/animals/lola-2/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2025/11/9066DD01-4309-4066-B9E3-47CF02E8DA7F-e1762960034954.jpeg",
+    "status": "",
+    "age": "6 years old",
+    "sex": "Female",
+    "breed": "Labrador cross",
+    "notes": []
+  },
+  {
+    "name": "Rocky",
+    "url": "https://ncar.org.uk/animals/rocky/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2025/12/d16b597f-3f0e-4d4a-9047-3ef9876c1d38-e1764863557262.jpeg",
+    "status": "",
+    "age": "1 year 8 months",
+    "sex": "Male",
+    "breed": "Staffy cross",
+    "notes": [
+      "friendly with strangers",
+      "good on the lead"
+    ]
+  },
+  {
+    "name": "Angus",
+    "url": "https://ncar.org.uk/animals/angus/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/03/IMG_1274-e1773757701757.jpeg",
+    "status": "",
+    "age": "2 years old",
+    "sex": "Male",
+    "breed": "Staffie cross",
+    "notes": [
+      "can live with older children",
+      "friendly with strangers",
+      "can't live with dogs",
+      "can't live with young children"
+    ]
+  },
+  {
+    "name": "Barkby",
+    "url": "https://ncar.org.uk/animals/barkby-2/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2025/08/IMG_2129-e1757508425924.jpeg",
+    "status": "Reserved",
+    "age": "2 years old",
+    "sex": "Male",
+    "breed": "Staffie x Cane Corso",
+    "notes": [
+      "can live with older children",
+      "friendly with dogs",
+      "friendly with strangers"
+    ]
+  },
+  {
+    "name": "Skar",
+    "url": "https://ncar.org.uk/animals/skar/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2025/08/IMG_1776.jpeg",
+    "status": "",
+    "age": "5 years",
+    "sex": "Female",
+    "breed": "Belgian Shepherd cross",
+    "notes": [
+      "can live with older children",
+      "friendly with dogs",
+      "is toilet trained"
+    ]
+  },
+  {
+    "name": "Titan",
+    "url": "https://ncar.org.uk/animals/titan/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2025/04/IMG_7624-e1745505358185.jpeg",
+    "status": "",
+    "age": "1 year 3 months",
+    "sex": "Male",
+    "breed": "Labrador x French Bulldog",
+    "notes": []
+  },
+  {
+    "name": "Angel",
+    "url": "https://ncar.org.uk/animals/angel/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2025/01/IMG_9151-e1738323900609.jpeg",
+    "status": "",
+    "age": "1 Year 3 Months",
+    "sex": "Female",
+    "breed": "SBT Cross Malinois",
+    "notes": []
+  },
+  {
+    "name": "Jessie",
+    "url": "https://ncar.org.uk/animals/jessie/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2025/05/74180073-accc-485e-9380-6e24f390675e-e1747748881311.jpeg",
+    "status": "",
+    "age": "7 years old",
+    "sex": "Female",
+    "breed": "Labrador x Lurcher",
+    "notes": [
+      "can live with older children",
+      "friendly with strangers",
+      "is toilet trained",
+      "can’t live with cats",
+      "can't live with dogs",
+      "can't live with young children"
+    ]
+  },
+  {
+    "name": "Waffle",
+    "url": "https://ncar.org.uk/animals/waffle/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/01/IMG_8574.jpeg",
+    "status": "",
+    "age": "4 years old approx",
+    "sex": "Male",
+    "breed": "Cane Corso",
+    "notes": [
+      "friendly with dogs",
+      "friendly with strangers",
+      "good on the lead",
+      "can't live with children",
+      "can't live with young children",
+      "isn't toilet trained"
+    ]
+  },
+  {
+    "name": "Phillip",
+    "url": "https://ncar.org.uk/animals/phillip-2/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/04/IMG_2358.jpeg",
+    "status": "",
+    "age": "7 years old",
+    "sex": "Male",
+    "breed": "Huntaway/Collie/Rottie mix",
+    "notes": [
+      "can’t live with cats",
+      "can't live with dogs",
+      "can't live with children",
+      "can't live with young children"
+    ]
+  },
+  {
+    "name": "Holly",
+    "url": "https://ncar.org.uk/animals/holly-2/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2024/03/holly-e1710507019754.jpg",
+    "status": "Reserved",
+    "age": "3 Years Old",
+    "sex": "Female",
+    "breed": "Hound",
+    "notes": [
+      "can live with other dogs",
+      "friendly with dogs",
+      "friendly with strangers",
+      "isn't toilet trained"
+    ]
+  },
+  {
+    "name": "Reece",
+    "url": "https://ncar.org.uk/animals/reece-2/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2024/10/IMG_7891-e1727772627350.jpeg",
+    "status": "",
+    "age": "6 years old",
+    "sex": "Male",
+    "breed": "Staffy cross",
+    "notes": [
+      "friendly with dogs",
+      "can’t live with cats",
+      "can't live with dogs",
+      "can't live with children"
+    ]
+  },
+  {
+    "name": "Atari",
+    "url": "https://ncar.org.uk/animals/atari/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/03/IMG_1276-e1773757979998.jpeg",
+    "status": "",
+    "age": "2 years 4 months old",
+    "sex": "Female",
+    "breed": "Cane corso Cross",
+    "notes": [
+      "can live with older children",
+      "can't live with dogs"
+    ]
+  },
+  {
+    "name": "Dolly",
+    "url": "https://ncar.org.uk/animals/dolly-2/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2024/01/dolly.jpg",
+    "status": "",
+    "age": "4 Years and 7 Months Old",
+    "sex": "Female",
+    "breed": "Pocket Bully",
+    "notes": [
+      "can't live with dogs",
+      "can't live with children"
+    ]
+  },
+  {
+    "name": "Sadie",
+    "url": "https://ncar.org.uk/animals/sadie/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2024/05/sadiee.jpg",
+    "status": "",
+    "age": "10 years old",
+    "sex": "Female",
+    "breed": "Collie cross Rottweiler",
+    "notes": []
+  },
+  {
+    "name": "Scout",
+    "url": "https://ncar.org.uk/animals/scout/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2024/05/Scout2-e1715250609950.jpg",
+    "status": "",
+    "age": "8 Years 10 Months",
+    "sex": "Male",
+    "breed": "German Shepherd Cross",
+    "notes": [
+      "can live with older children",
+      "friendly with strangers",
+      "is toilet trained",
+      "can’t live with cats",
+      "can't live with dogs"
+    ]
+  },
+  {
+    "name": "Gizmo",
+    "url": "https://ncar.org.uk/animals/gizmo/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2024/05/Gizmo-e1714993769531.jpg",
+    "status": "",
+    "age": "5 Years 6 Months",
+    "sex": "Male",
+    "breed": "Lurcher",
+    "notes": [
+      "can live with older children",
+      "friendly with strangers",
+      "can’t live with cats"
+    ]
+  },
+  {
+    "name": "Rory",
+    "url": "https://ncar.org.uk/animals/rory/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2024/07/Rory-e1720088244373.jpg",
+    "status": "Reserved",
+    "age": "6 years approx",
+    "sex": "Male",
+    "breed": "Staffy cross",
+    "notes": [
+      "can live with older children",
+      "is toilet trained",
+      "can’t live with cats"
+    ]
+  },
+  {
+    "name": "Elsie",
+    "url": "https://ncar.org.uk/animals/elsie/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2024/01/Elsie1.jpg",
+    "status": "Working With",
+    "age": "4 years approx",
+    "sex": "Female",
+    "breed": "Boxer cross",
+    "notes": [
+      "can live with older children",
+      "can live with sensible children",
+      "friendly with dogs",
+      "friendly with strangers",
+      "can’t live with cats",
+      "medical issues"
+    ]
+  },
+  {
+    "name": "Tyga",
+    "url": "https://ncar.org.uk/animals/tyga/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2024/06/Tyga2-e1717248662804.jpg",
+    "status": "",
+    "age": "2 years 5 months",
+    "sex": "Male",
+    "breed": "Bull Lurcher",
+    "notes": [
+      "friendly with strangers",
+      "can’t live with cats",
+      "can't live with dogs",
+      "can't live with young children",
+      "isn't toilet trained"
+    ]
+  }
+]
