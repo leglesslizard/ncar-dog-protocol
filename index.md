@@ -74,6 +74,60 @@ title: NCAR Dog Protocols
     font-weight: bold;
     font-size: 1.1rem;
   }
+
+  .dogs-nav {
+    margin-top: 2rem;
+    border-top: 1px solid #ddd;
+    padding-top: 1.5rem;
+  }
+
+  .dogs-nav-label {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.75rem;
+    font-weight: bold;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #888;
+    margin: 0 0 0.75rem;
+  }
+
+  .dogs-nav-link {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 1rem 1rem 1rem 1.25rem;
+    background: #fff;
+    border: 1px solid #e0ddd9;
+    border-radius: 8px;
+    text-decoration: none;
+    color: #1a1a1a;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+    transition: background 0.15s;
+  }
+
+  .dogs-nav-link:hover {
+    background: #f0ede8;
+  }
+
+  .dogs-nav-link .title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 1.1rem;
+  }
+
+  .dogs-nav-link .subtitle {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.85rem;
+    color: #777;
+    margin-top: 0.15rem;
+  }
+
+  .dogs-nav-link .arrow {
+    font-size: 1.25rem;
+    color: #aaa;
+    flex-shrink: 0;
+  }
 </style>
 
 <div class="index-header">
@@ -91,3 +145,14 @@ title: NCAR Dog Protocols
     </li>
   {% endfor %}
 </ul>
+
+<div class="dogs-nav">
+  <p class="dogs-nav-label">Quick Reference</p>
+  <a href="{{ '/dogs/' | relative_url }}" class="dogs-nav-link">
+    <div>
+      <div class="title">Dogs for Adoption</div>
+      <div class="subtitle">Breed, age, sex and notes for all current dogs</div>
+    </div>
+    <span class="arrow">&#8594;</span>
+  </a>
+</div>

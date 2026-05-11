@@ -10,6 +10,7 @@ permalink: /:title/
 # Exclude from processing
 exclude:
   - src/
+  - _scripts/
   - README.md
   - Gemfile
   - Gemfile.lock
