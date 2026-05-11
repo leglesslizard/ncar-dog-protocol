@@ -7,7 +7,8 @@
     "age": "4 years old approx",
     "sex": "Female",
     "breed": "Collie cross",
-    "notes": []
+    "notes": [],
+    "description": []
   },
   {
     "name": "Kira",
@@ -22,7 +23,8 @@
       "can live with other dogs",
       "friendly with dogs",
       "friendly with strangers"
-    ]
+    ],
+    "description": []
   },
   {
     "name": "Lola2  – appointment booked",
@@ -32,7 +34,8 @@
     "age": "1 year old",
     "sex": "Female",
     "breed": "Chihuahua x Frenchie x Pug",
-    "notes": []
+    "notes": [],
+    "description": []
   },
   {
     "name": "Jem",
@@ -42,7 +45,8 @@
     "age": "1 year approx",
     "sex": "Female",
     "breed": "Lurcher",
-    "notes": []
+    "notes": [],
+    "description": []
   },
   {
     "name": "Pickle",
@@ -52,7 +56,8 @@
     "age": "",
     "sex": "Male",
     "breed": "",
-    "notes": []
+    "notes": [],
+    "description": []
   },
   {
     "name": "Georgie",
@@ -67,7 +72,8 @@
       "good on the lead",
       "can’t live with cats",
       "can't live with young children"
-    ]
+    ],
+    "description": []
   },
   {
     "name": "Winston – Appointment booked",
@@ -77,7 +83,8 @@
     "age": "1 year 3 months",
     "sex": "Male",
     "breed": "Jack Russell",
-    "notes": []
+    "notes": [],
+    "description": []
   },
   {
     "name": "Jim",
@@ -93,7 +100,8 @@
       "good on the lead",
       "can’t live with cats",
       "can't live with children"
-    ]
+    ],
+    "description": []
   },
   {
     "name": "Chester",
@@ -108,7 +116,8 @@
       "friendly with strangers",
       "good on the lead",
       "can’t live with cats"
-    ]
+    ],
+    "description": []
   },
   {
     "name": "Maverick",
@@ -122,7 +131,8 @@
       "friendly with strangers",
       "is toilet trained",
       "can't live with young children"
-    ]
+    ],
+    "description": []
   },
   {
     "name": "Rosie – appointment booked",
@@ -138,7 +148,8 @@
       "friendly with dogs",
       "friendly with strangers",
       "good on the lead"
-    ]
+    ],
+    "description": []
   },
   {
     "name": "Shadow – Appointment booked",
@@ -148,7 +159,8 @@
     "age": "3 years old",
     "sex": "Male",
     "breed": "Shar-Pei",
-    "notes": []
+    "notes": [],
+    "description": []
   },
   {
     "name": "Callie",
@@ -163,7 +175,8 @@
       "is toilet trained",
       "can't live with dogs",
       "can't live with children"
-    ]
+    ],
+    "description": []
   },
   {
     "name": "Lassie",
@@ -177,7 +190,8 @@
       "can live with older children",
       "friendly with dogs",
       "friendly with strangers"
-    ]
+    ],
+    "description": []
   },
   {
     "name": "Bunny",
@@ -187,7 +201,8 @@
     "age": "7 years 5 months",
     "sex": "Female",
     "breed": "Lurcher cross",
-    "notes": []
+    "notes": [],
+    "description": []
   },
   {
     "name": "Dre",
@@ -197,7 +212,8 @@
     "age": "8 years old",
     "sex": "Male",
     "breed": "French Bulldog",
-    "notes": []
+    "notes": [],
+    "description": []
   },
   {
     "name": "Ruby",
@@ -212,7 +228,8 @@
       "friendly with strangers",
       "good on the lead",
       "isn't toilet trained"
-    ]
+    ],
+    "description": []
   },
   {
     "name": "Fenrie",
@@ -225,7 +242,8 @@
     "notes": [
       "friendly with dogs",
       "friendly with strangers"
-    ]
+    ],
+    "description": []
   },
   {
     "name": "Hooch",
@@ -242,7 +260,8 @@
       "has lived with children",
       "has lived with dogs",
       "is toilet trained"
-    ]
+    ],
+    "description": []
   },
   {
     "name": "Rocky 2",
@@ -258,7 +277,8 @@
       "friendly with strangers",
       "has lived with dogs",
       "is toilet trained"
-    ]
+    ],
+    "description": []
   },
   {
     "name": "Lily",
@@ -268,7 +288,8 @@
     "age": "6 years old approx",
     "sex": "Female",
     "breed": "French Bulldog",
-    "notes": []
+    "notes": [],
+    "description": []
   },
   {
     "name": "Sebby – Working with potential owners",
@@ -283,7 +304,8 @@
       "friendly with dogs",
       "friendly with strangers",
       "can’t live with cats"
-    ]
+    ],
+    "description": []
   },
   {
     "name": "Velma",
@@ -299,7 +321,8 @@
       "good on the lead",
       "is toilet trained",
       "medical issues"
-    ]
+    ],
+    "description": []
   },
   {
     "name": "Drax",
@@ -316,7 +339,8 @@
       "good on the lead",
       "is toilet trained",
       "medical issues"
-    ]
+    ],
+    "description": []
   },
   {
     "name": "Jinx",
@@ -333,7 +357,8 @@
       "can’t live with cats",
       "can't live with dogs",
       "can't live with young children"
-    ]
+    ],
+    "description": []
   },
   {
     "name": "Crosby",
@@ -345,7 +370,8 @@
     "breed": "Bulldog cross",
     "notes": [
       "can't live with children"
-    ]
+    ],
+    "description": []
   },
   {
     "name": "Taz",
@@ -355,7 +381,8 @@
     "age": "6-7 years old",
     "sex": "Male",
     "breed": "Collie x Staffie",
-    "notes": []
+    "notes": [],
+    "description": []
   },
   {
     "name": "Tyson",
@@ -369,7 +396,8 @@
       "friendly with strangers",
       "can’t live with cats",
       "can't live with dogs"
-    ]
+    ],
+    "description": []
   },
   {
     "name": "Iris",
@@ -384,7 +412,8 @@
       "friendly with strangers",
       "can’t live with cats",
       "can't live with dogs"
-    ]
+    ],
+    "description": []
   },
   {
     "name": "Solo",
@@ -394,7 +423,8 @@
     "age": "3 years old",
     "sex": "Male",
     "breed": "Staffie x Boxer",
-    "notes": []
+    "notes": [],
+    "description": []
   },
   {
     "name": "Lola",
@@ -404,7 +434,8 @@
     "age": "6 years old",
     "sex": "Female",
     "breed": "Labrador cross",
-    "notes": []
+    "notes": [],
+    "description": []
   },
   {
     "name": "Rocky",
@@ -417,7 +448,8 @@
     "notes": [
       "friendly with strangers",
       "good on the lead"
-    ]
+    ],
+    "description": []
   },
   {
     "name": "Angus",
@@ -432,7 +464,8 @@
       "friendly with strangers",
       "can't live with dogs",
       "can't live with young children"
-    ]
+    ],
+    "description": []
   },
   {
     "name": "Barkby",
@@ -446,7 +479,8 @@
       "can live with older children",
       "friendly with dogs",
       "friendly with strangers"
-    ]
+    ],
+    "description": []
   },
   {
     "name": "Skar",
@@ -460,7 +494,8 @@
       "can live with older children",
       "friendly with dogs",
       "is toilet trained"
-    ]
+    ],
+    "description": []
   },
   {
     "name": "Titan",
@@ -470,7 +505,8 @@
     "age": "1 year 3 months",
     "sex": "Male",
     "breed": "Labrador x French Bulldog",
-    "notes": []
+    "notes": [],
+    "description": []
   },
   {
     "name": "Angel",
@@ -480,7 +516,8 @@
     "age": "1 Year 3 Months",
     "sex": "Female",
     "breed": "SBT Cross Malinois",
-    "notes": []
+    "notes": [],
+    "description": []
   },
   {
     "name": "Jessie",
@@ -497,7 +534,8 @@
       "can’t live with cats",
       "can't live with dogs",
       "can't live with young children"
-    ]
+    ],
+    "description": []
   },
   {
     "name": "Waffle",
@@ -514,7 +552,8 @@
       "can't live with children",
       "can't live with young children",
       "isn't toilet trained"
-    ]
+    ],
+    "description": []
   },
   {
     "name": "Phillip",
@@ -529,7 +568,8 @@
       "can't live with dogs",
       "can't live with children",
       "can't live with young children"
-    ]
+    ],
+    "description": []
   },
   {
     "name": "Holly",
@@ -544,7 +584,8 @@
       "friendly with dogs",
       "friendly with strangers",
       "isn't toilet trained"
-    ]
+    ],
+    "description": []
   },
   {
     "name": "Reece",
@@ -559,7 +600,8 @@
       "can’t live with cats",
       "can't live with dogs",
       "can't live with children"
-    ]
+    ],
+    "description": []
   },
   {
     "name": "Atari",
@@ -572,7 +614,8 @@
     "notes": [
       "can live with older children",
       "can't live with dogs"
-    ]
+    ],
+    "description": []
   },
   {
     "name": "Dolly",
@@ -585,7 +628,8 @@
     "notes": [
       "can't live with dogs",
       "can't live with children"
-    ]
+    ],
+    "description": []
   },
   {
     "name": "Sadie",
@@ -595,7 +639,8 @@
     "age": "10 years old",
     "sex": "Female",
     "breed": "Collie cross Rottweiler",
-    "notes": []
+    "notes": [],
+    "description": []
   },
   {
     "name": "Scout",
@@ -611,7 +656,8 @@
       "is toilet trained",
       "can’t live with cats",
       "can't live with dogs"
-    ]
+    ],
+    "description": []
   },
   {
     "name": "Gizmo",
@@ -625,7 +671,8 @@
       "can live with older children",
       "friendly with strangers",
       "can’t live with cats"
-    ]
+    ],
+    "description": []
   },
   {
     "name": "Rory",
@@ -639,7 +686,8 @@
       "can live with older children",
       "is toilet trained",
       "can’t live with cats"
-    ]
+    ],
+    "description": []
   },
   {
     "name": "Elsie",
@@ -656,7 +704,8 @@
       "friendly with strangers",
       "can’t live with cats",
       "medical issues"
-    ]
+    ],
+    "description": []
   },
   {
     "name": "Tyga",
@@ -672,6 +721,7 @@
       "can't live with dogs",
       "can't live with young children",
       "isn't toilet trained"
-    ]
+    ],
+    "description": []
   }
 ]
