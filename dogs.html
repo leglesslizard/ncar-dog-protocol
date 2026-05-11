@@ -68,6 +68,37 @@ permalink: /dogs/
     aspect-ratio: 1;
     overflow: hidden;
     background: #e8e5e0;
+    position: relative;
+  }
+
+  .dog-photo-btn {
+    position: absolute;
+    top: 0.5rem;
+    width: 2rem;
+    height: 2rem;
+    background: rgba(255, 255, 255, 0.88);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.18s;
+    cursor: pointer;
+    border: none;
+    padding: 0;
+    text-decoration: none;
+    color: #2c2c2c;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.18);
+  }
+
+  .dog-photo:hover .dog-photo-btn { opacity: 1; }
+  .dog-photo-btn:hover { background: #fff; }
+
+  .dog-photo-btn--info { left: 0.5rem; }
+  .dog-photo-btn--link { right: 0.5rem; }
+
+  @media (hover: none) {
+    .dog-photo-btn { opacity: 0.8; }
   }
 
   .dog-photo img {
@@ -127,27 +158,6 @@ permalink: /dogs/
 
   .dog-notes li {
     margin: 0.2rem 0;
-  }
-
-  .show-info-btn {
-    display: block;
-    width: 100%;
-    margin-top: auto;
-    padding: 0.6rem 0;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 0.85rem;
-    font-weight: bold;
-    color: #2c2c2c;
-    background: none;
-    border: none;
-    border-top: 1px solid #eee;
-    cursor: pointer;
-    text-align: center;
-    letter-spacing: 0.02em;
-  }
-
-  .show-info-btn:hover {
-    background: #f0ede8;
   }
 
   .dogs-empty {
@@ -251,6 +261,16 @@ permalink: /dogs/
     {% if dog.image %}
     <div class="dog-photo">
       <img src="{{ dog.image }}" alt="{{ dog.name }}" loading="lazy">
+      {% if dog.description.size > 0 %}
+      <button class="dog-photo-btn dog-photo-btn--info" data-dog="{{ forloop.index }}" aria-label="Show info for {{ dog.name }}">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+      </button>
+      {% endif %}
+      {% if dog.url %}
+      <a class="dog-photo-btn dog-photo-btn--link" href="{{ dog.url }}" target="_blank" rel="noopener" aria-label="View {{ dog.name }} on NCAR website">
+        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+      </a>
+      {% endif %}
     </div>
     {% endif %}
     <div class="dog-body">
@@ -269,9 +289,6 @@ permalink: /dogs/
         <li>{{ note }}</li>
         {% endfor %}
       </ul>
-      {% endif %}
-      {% if dog.description.size > 0 %}
-      <button class="show-info-btn" data-dog="{{ forloop.index }}">Show info</button>
       {% endif %}
     </div>
   </div>
@@ -318,7 +335,7 @@ permalink: /dogs/
     document.body.style.overflow = '';
   }
 
-  document.querySelectorAll( '.show-info-btn' ).forEach( function( btn ) {
+  document.querySelectorAll( '.dog-photo-btn--info' ).forEach( function( btn ) {
     btn.addEventListener( 'click', function() {
       openDogModal( this.dataset.dog );
     } );
