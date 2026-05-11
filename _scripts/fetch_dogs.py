@@ -2,6 +2,9 @@
 """
 Scrapes current dogs for adoption from ncar.org.uk and saves to _data/dogs.json.
 Run via GitHub Actions on a daily schedule, or manually.
+
+Debug a single dog URL:
+  python fetch_dogs.py --debug-url https://ncar.org.uk/animals/some-dog/
 """
 import json
 import os
@@ -102,19 +105,28 @@ def parse_dog_page(url):
         if text:
             notes.append(text)
 
-    # Description — plain <p> direct children of entry-content after the data-block div
+    # Description — <p> siblings after the data-block div (nested anywhere in the tree)
     description = []
-    content_div = soup.find("div", class_="entry-content")
-    if content_div:
+    data_block_div = soup.find(attrs={"data-block": True})
+    if data_block_div:
         past_data_block = False
-        for child in content_div.children:
-            if not hasattr(child, "name") or child.name is None:
+        for sibling in data_block_div.parent.children:
+            if not hasattr(sibling, "name") or sibling.name is None:
                 continue
-            if child.name == "div" and child.has_attr("data-block"):
+            if sibling is data_block_div:
                 past_data_block = True
                 continue
-            if past_data_block and child.name == "p":
-                text = child.get_text(strip=True)
+            if not past_data_block or sibling.name != "p":
+                continue
+            # The outer <p> may wrap nested <p> elements
+            nested = sibling.find_all("p")
+            if nested:
+                for p in nested:
+                    text = p.get_text(strip=True)
+                    if text:
+                        description.append(text)
+            else:
+                text = sibling.get_text(strip=True)
                 if text:
                     description.append(text)
 
@@ -129,7 +141,43 @@ def parse_dog_page(url):
     }
 
 
+def debug_dog_page(url):
+    """Print a structural dump and parsed result for a single dog page."""
+    print(f"\nFetching: {url}\n")
+    soup = get_soup(url)
+
+    data_block_div = soup.find(attrs={"data-block": True})
+    if not data_block_div:
+        print("ERROR: No element with data-block attribute found.")
+    else:
+        print(f"data-block element: <{data_block_div.name}> data-block={data_block_div.get('data-block')!r}")
+        print("Siblings after data-block:\n")
+        past = False
+        for i, sibling in enumerate(data_block_div.parent.children):
+            if not hasattr(sibling, "name") or sibling.name is None:
+                continue
+            if sibling is data_block_div:
+                past = True
+                print(f"  [data-block] <{sibling.name}> ← pivot")
+                continue
+            if not past:
+                continue
+            classes = " ".join(sibling.get("class", []))
+            text_preview = sibling.get_text(strip=True)[:100]
+            nested_p = len(sibling.find_all("p")) if hasattr(sibling, "find_all") else 0
+            print(f"  <{sibling.name}> class={classes!r} nested_p={nested_p} | {text_preview!r}")
+        print()
+
+    print("=== Parsed result ===\n")
+    result = parse_dog_page(url)
+    print(json.dumps(result, indent=2, ensure_ascii=False))
+
+
 def main():
+    if len(sys.argv) == 3 and sys.argv[1] == "--debug-url":
+        debug_dog_page(sys.argv[2])
+        return
+
     print("Fetching archive pages...")
     dogs = get_archive_dogs()
     print(f"Found {len(dogs)} dogs\n")
