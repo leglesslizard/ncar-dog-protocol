@@ -1,5 +1,31 @@
 [
   {
+    "name": "Rolo",
+    "url": "https://ncar.org.uk/animals/rolo/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/05/cc94c7b6-4876-4a7d-9452-8e9473b920cc.jpeg",
+    "status": null,
+    "age": "8 months",
+    "sex": "Male",
+    "breed": "Dachshund",
+    "notes": [
+      "can live with sensible children",
+      "friendly with dogs",
+      "friendly with strangers",
+      "good on the lead",
+      "is toilet trained",
+      "can't live with dogs",
+      "can't live with young children"
+    ],
+    "description": [
+      "Rolo is a handsome boy who came to us due to his owners change of circumstances. He is a great boy who has so much potential with the right home! He does need training but is generally an amazing boy.",
+      "Rolo is only 8 months old, so he is in his teenagers years and can be quite naughty and playful! The best thing to him is playing tug of war with socks! He will need a dedicated owner that can provide puppy training and socialisation for him. At this age it is really important for his development as dachshunds can be barky and nervous, so it is important he gets socialisation around dogs and people.",
+      "He is a very friendly boy with people, he can be a little timid with people on first arrival but quickly warms up. He enjoys cuddles and fuss, and loves his walks. He will need an active home where he can go for plenty of walks and adventures. He has previously lived with dogs, but was too much for the dog in the home – he was too overstimulated and could get humpy. He is now in a foster home and can be a lot for the dog in the home too. He is looking for a home as the only dog until he calms down and learns boundries. He is very friendly and playful meeting dogs on walks. He has previously lived with a cat and a rabbit too.",
+      "He can be rehomed with children 8+ as he can be mouthy when overstimulated. The children will need to help with training but also put boundries in place when Rolo can be naughty. He is crate trained, housetrained and generally he is a good boy. He does settle at night but can be quite barky initially.",
+      "He has no recall so cannot be let off lead in any unsecure areas until his recall is well established. He will need a secure garden.",
+      "Rolo is a gorgeous boy and has so much potential. He does need plenty of training and it very important he is socialised with dedicated owners. Please  provide plenty of information on your application form for Rolo, we will be picking the most suitable home for him. This may take a couple days. Rolo is currently in a foster home, he is not on site at the rescue."
+    ]
+  },
+  {
     "name": "Nova",
     "url": "https://ncar.org.uk/animals/nova/",
     "image": "https://ncar.org.uk/wp-content/uploads/2026/05/IMG_3935.jpeg",
@@ -36,10 +62,10 @@
     ]
   },
   {
-    "name": "Lola2  – appointment booked",
+    "name": "Lola2",
     "url": "https://ncar.org.uk/animals/lola2/",
     "image": "https://ncar.org.uk/wp-content/uploads/2026/05/IMG_3816.jpeg",
-    "status": null,
+    "status": "Reserved",
     "age": "1 year old",
     "sex": "Female",
     "breed": "Chihuahua x Frenchie x Pug",
@@ -100,10 +126,10 @@
     ]
   },
   {
-    "name": "Winston – Appointment booked",
+    "name": "Winston",
     "url": "https://ncar.org.uk/animals/winston/",
     "image": "https://ncar.org.uk/wp-content/uploads/2026/04/C8472642-9145-4C56-9744-F4550C601E81.jpeg",
-    "status": null,
+    "status": "Reserved",
     "age": "1 year 3 months",
     "sex": "Male",
     "breed": "Jack Russell",
@@ -183,7 +209,7 @@
     ]
   },
   {
-    "name": "Rosie – appointment booked",
+    "name": "Rosie",
     "url": "https://ncar.org.uk/animals/rosie/",
     "image": "https://ncar.org.uk/wp-content/uploads/2026/04/IMG_3161-e1776778941525.jpeg",
     "status": null,
@@ -192,7 +218,6 @@
     "breed": "French Bulldog",
     "notes": [
       "can live with sensible children",
-      "can live with other dogs",
       "friendly with dogs",
       "friendly with strangers",
       "good on the lead"
@@ -200,7 +225,7 @@
     "description": [
       "Rosie is a really sweet girl who arrived with us as a stray, sadly it is evident that she hasn’t been cared for as she deserves previously and came to us in poor condition. After routine vet care and a good diet, she is already starting to look and feel better and her fur is even starting to grow back!",
       "Rosie is a loving girl who adores affection and having cuddles, she has been super friendly with everyone so far! She is quickly becoming a favourite with volunteers. She can be rehomed with sensible children that can give her lots of attention but also get involved in with training. We hope people aren’t put off by her looks as she is an incredible girl, who very much deserves to be spoilt in her next home.",
-      "She has been friendly with other dogs during our stay so far but we are still learning about and assessing her. We will be assessing her further to see her suitability to live with another dog – we would need to do introductions here at the rescue to make sure the dogs are all happy and compatible. She is not yet spayed (we will be doing this when suitable), so if she was to be rehomed with a male dog they will need to be neutered. Rosie will also thrive as the only dog in the home, as she will love being the centre of attention and having lots and lots of attention!",
+      "She has been friendly with other dogs during our stay so far but we are still learning about and assessing her. We will be assessing her further to see her suitability to live with another dog – we would need to do introductions here at the rescue to make sure the dogs are all happy and compatible. She is not yet spayed (we will be doing this when suitable), so if she was to be rehomed with a male dog they will need to be neutered. She can be snappy with dogs that get in her face or are too playful, so the other dog will need to be very calm and be quite an independant character. Otherwise, Rosie will also thrive as the only dog in the home, as she will love being the centre of attention and having lots and lots of attention!",
       "Generally she is a fab girl who we hope she isn’t here too long as she very much deserves a comfy sofa to snore on!"
     ]
   },
