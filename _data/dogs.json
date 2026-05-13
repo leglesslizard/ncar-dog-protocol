@@ -1,6 +1,50 @@
 [
   {
-    "name": "Rolo",
+    "name": "Tilly + Coco",
+    "url": "https://ncar.org.uk/animals/tilly-coco/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/05/9FA438D7-4097-49BB-BD0E-36158E17AB0F.jpeg",
+    "status": null,
+    "age": "15 years old + 6 years old (almost)",
+    "sex": "Female",
+    "breed": "Terrier + Chihuahua cross",
+    "notes": [
+      "can live with older children",
+      "friendly with strangers"
+    ],
+    "description": [
+      "Tilly and Coco are a lovely pair that came to us due to their owners change in circumstances. Although they are very different we would like Coco and Tilly to go together as they are quite dependant on eachother. Tilly is a Yorkie cross who is almost 15 years old and Coco is Chihuahua cross who is almost 6 years old. They are both sweet girls, Coco can be nervous at times and Tilly is a little oldie so we are looking for a home with patient, caring owners for them.Coco came over from Romania originally and does have a nervous temperament and can be spooked by fast movements and loud noises at times, they have been used to a quiet home previously so Tilly + Coco will be best suited to aquiet adult only homethis time around. They have lived on a fully secure small holding environment and haven’t been used to being walked away from the home/land so they are now building up confidence.. Tilly is taking it all in her stride and Coco is improving gradually.They have lived with other dogs and two cats in their previous home so may have potential to live with dog-savvy cats in their next home. If they were to live with another dog it would need to be a calm, quiet dog and we would do introductions to assess their compatibility.They are looking for a home in a quiet area where they can go on calm, quiet walks. They will need secure fencing in the garden with no gaps due to Coco’s nervousness. Tilly is a very sweet, gentle girl who is very low maintenance and tends to sleep quite a lot. She is on the older side but is in good general health currently – she has had a dental whilst with us and has recovered well.We will continue to assess them during their stay with us, but we really hope a suitable home comes along soon for this cute little duo."
+    ]
+  },
+  {
+    "name": "Bandit",
+    "url": "https://ncar.org.uk/animals/bandit/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/05/2ae00d03-8d0b-433c-95f6-ab683135e0e3-e1778582113840.jpeg",
+    "status": null,
+    "age": "1 year 7 months (DOB - 4/10/24)",
+    "sex": "Male",
+    "breed": "Cane Corso",
+    "notes": [],
+    "description": [
+      "Bandit is a striking lad who arrived with us after he was found as a stray, he had been running loose + scared for a few hours before he was able to be caught. Once he was safe we managed to find out some previous history on him and he had been sold to someone that morning due to his original owners ill health.Bandit had lived in the same home since being a small puppy and his previous owner advised that he was good in the home and when out and about.",
+      "Since his arrival we have been getting to know him and assessing him, it took him some time to settle and come out of his shell fully and now he is a needy, friendly + boisterous lad who forms strong bonds with his handlers. He is only young so needs owners that are committed to his ongoing training and socialisation whilst he continues to grow and mature.He has met countless dogs since his arrival with us and does have potential to live with a compatible dog in his next home as long as owners are dog-savvy and introductions go well here at the rescue.Bandit can be rehomed with older children/teenagers in his next home depending on owners experience. He is a big lad who doesn’t know his size, he is currently weighing in at 50kg and does still have some growing to do so new owners must bare this in mind. We would advise anyone interested in applying for Bandit to do some research into the breed and he is looking for a home with people who have experience of large dogs.We really hope a suitable home comes along soon for him 🙂"
+    ]
+  },
+  {
+    "name": "Remy",
+    "url": "https://ncar.org.uk/animals/remy/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/05/01db9f9e-c99b-4acb-81af-60cf950fe977-e1778164574210.jpeg",
+    "status": null,
+    "age": "2-3 years approx",
+    "sex": "Male",
+    "breed": "Staffy cross",
+    "notes": [],
+    "description": [
+      "Remy is a really striking lad who arrived with us as a stray after being found running on the A55. No one has come forward to claim him so he is now looking for a new home. He is a lovely fella who we hope finds a new home soon 🙂",
+      "Remy was quite nervous when he first arrived but it hasn’t taken him long to adjust to life here at the rescue and he has gained confidence quite quickly and is a very friendly boy with staff. Remy is around 34kg and is quite a big boy but generally walks well on lead. He can be strong sometimes so will need an owner that can manage this. Remy is looking for a home with older children 12+ as we have no previous history on him.He is clean in his kennel which gives us an indication that he is likely to be house trained in the home. He likes going into our secure paddocks here on site and is generally a laidback lad.Remy has met a couple of dogs since his arrival and has been fine around them but we will continue to assess him during his stay with us to determine his suitablility to live with another dog. We think he will thrive in a home as the only pet as he does appear very people-orientated.He will suit a home with owners that are bull-breed savvy. We really hope a suitable home comes along soon for him 🙂"
+    ]
+  },
+  {
+    "name": "Rolo – Appointment booked",
     "url": "https://ncar.org.uk/animals/rolo/",
     "image": "https://ncar.org.uk/wp-content/uploads/2026/05/cc94c7b6-4876-4a7d-9452-8e9473b920cc.jpeg",
     "status": null,
@@ -26,7 +70,7 @@
     ]
   },
   {
-    "name": "Nova",
+    "name": "Nova – Appointment booked",
     "url": "https://ncar.org.uk/animals/nova/",
     "image": "https://ncar.org.uk/wp-content/uploads/2026/05/IMG_3935.jpeg",
     "status": null,
@@ -851,7 +895,7 @@
     "name": "Atari",
     "url": "https://ncar.org.uk/animals/atari/",
     "image": "https://ncar.org.uk/wp-content/uploads/2026/03/IMG_1276-e1773757979998.jpeg",
-    "status": null,
+    "status": "On Trial",
     "age": "2 years 4 months old",
     "sex": "Female",
     "breed": "Cane corso Cross",
