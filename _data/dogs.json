@@ -1,5 +1,51 @@
 [
   {
+    "name": "Stripe",
+    "url": "https://ncar.org.uk/animals/stripe/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/05/IMG_4270.jpeg",
+    "status": null,
+    "age": "1 year, 1 month.",
+    "sex": "Male",
+    "breed": "Lurcher",
+    "notes": [
+      "can live with sensible children",
+      "can live with other dogs",
+      "friendly with dogs",
+      "friendly with strangers",
+      "good on the lead",
+      "is toilet trained"
+    ],
+    "description": [
+      "Stripe is a sweet, friendly boy that came to us with Ivy, due to their owners change in circumstances. He is now looking for a forever home where he can get lots of fuss and adventures.",
+      "Stripe is only young, so will need a home that is dedicated to his training and socialising. Generally he is an fab liitle guy and would make a perfect companion. He can be a little timid with dogs initally, but will ignore most on walks! We are still assessing him and he may have the potential to live with another dog, but he would also thrive being the only dog in the home – where he will get all the attention!",
+      "He has been a friendly boy with everyone he has met so far, and walks lovely on lead. Typical with lurchers, he has hit and miss with  recall, so he shouldn’t be left off lead in any unsecure areas until recall is established. He has previously lived with kids of all ages so can live with children 8+. He is generally quite timid of new people, or sudden movements/ loud noises, so he will need his own space in the home and the children to respect his space if needed.",
+      "He could be destructive if she is left too long, but is generally a very well behaved. He is crate trained, travels okay in the car and fine at the vets, just timid.",
+      "Stripe is at an important age for socialisation so we hope his next home are dedicated to putting in the work with him. But generally he has amazing potential."
+    ]
+  },
+  {
+    "name": "Ivy",
+    "url": "https://ncar.org.uk/animals/ivy/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/05/IMG_4262.jpeg",
+    "status": null,
+    "age": "10 months.",
+    "sex": "Female",
+    "breed": "Lurcher",
+    "notes": [
+      "can live with sensible children",
+      "friendly with dogs",
+      "friendly with strangers",
+      "good on the lead"
+    ],
+    "description": [
+      "Ivy is a sweet, friendly girl that came to us with Stripe, due to their owners change in circumstances. She is now looking for a forever home where she can get lots of fuss and adventures.",
+      "Ivy is only young, so will need a home that is dedicated to her training and socialising. Generally she is an amazing girl and would make a perfect companion. She can be a little timid with dogs initally, but she soon tells them off! On her own, she can be quite shy but she came in with Stripe, and she can be sassy and very playful with him! We are still assessing her and she may have the potential to live with another dog, but she would also thrive being the only dog in the home – where she will get all the attention!",
+      "She has been a friendly girl with everyone she has met so far, and walks lovely on lead. Typical with lurchers, she has hit and miss with her recall, so she shouldn’t be left off lead in any unsecure areas until her recall is good. She has previously lived with kids of all ages so can live with children 8+. She cna be timid initally, so she will need her own space in the home and the children to respect her space if needed.",
+      "She could be destructive if she is left too long, 6+ hours but she is generally a very well behaved girl. She is crate trained, travels well in the car and fine at the vets.",
+      "She is at an important age for socialisation so we hope her next home are dedicated to putting in the work with her. But generally she is an amazing girl."
+    ]
+  },
+  {
     "name": "Nova 2",
     "url": "https://ncar.org.uk/animals/nova-2/",
     "image": "https://ncar.org.uk/wp-content/uploads/2026/05/eb7745cb-6209-4bf9-a868-7321a021d8fc.jpeg",
@@ -29,7 +75,11 @@
     "breed": "Terrier + Chihuahua cross",
     "notes": [
       "can live with older children",
-      "friendly with strangers"
+      "friendly with cats",
+      "friendly with dogs",
+      "friendly with strangers",
+      "good on the lead",
+      "can't live with young children"
     ],
     "description": [
       "Tilly and Coco are a lovely pair that came to us due to their owners change in circumstances. Although they are very different we would like Coco and Tilly to go together as they are quite dependant on eachother. Tilly is a Yorkie cross who is almost 15 years old and Coco is Chihuahua cross who is almost 6 years old. They are both sweet girls, Coco can be nervous at times and Tilly is a little oldie so we are looking for a home with patient, caring owners for them.",
@@ -47,7 +97,13 @@
     "age": "1 year 7 months (DOB - 4/10/24)",
     "sex": "Male",
     "breed": "Cane Corso",
-    "notes": [],
+    "notes": [
+      "can live with older children",
+      "can live with other dogs",
+      "friendly with dogs",
+      "good on the lead",
+      "has lived with dogs"
+    ],
     "description": [
       "Bandit is a striking lad who arrived with us after he was found as a stray, he had been running loose + scared for a few hours before he was able to be caught. Once he was safe we managed to find out some previous history on him and he had been sold to someone that morning due to his original owners ill health.Bandit had lived in the same home since being a small puppy and his previous owner advised that he was good in the home and when out and about.",
       "Since his arrival we have been getting to know him and assessing him, it took him some time to settle and come out of his shell fully and now he is a needy, friendly + boisterous lad who forms strong bonds with his handlers. He is only young so needs owners that are committed to his ongoing training and socialisation whilst he continues to grow and mature.He has met countless dogs since his arrival with us and does have potential to live with a compatible dog in his next home as long as owners are dog-savvy and introductions go well here at the rescue.Bandit can be rehomed with older children/teenagers in his next home depending on owners experience. He is a big lad who doesn’t know his size, he is currently weighing in at 50kg and does still have some growing to do so new owners must bare this in mind. We would advise anyone interested in applying for Bandit to do some research into the breed and he is looking for a home with people who have experience of large dogs.We really hope a suitable home comes along soon for him 🙂"
@@ -68,7 +124,7 @@
     ]
   },
   {
-    "name": "Nova – Appointment booked",
+    "name": "Nova",
     "url": "https://ncar.org.uk/animals/nova/",
     "image": "https://ncar.org.uk/wp-content/uploads/2026/05/IMG_3935.jpeg",
     "status": null,
@@ -83,66 +139,16 @@
     ]
   },
   {
-    "name": "Kira",
-    "url": "https://ncar.org.uk/animals/kira/",
-    "image": "https://ncar.org.uk/wp-content/uploads/2026/05/942DD91E-A88F-4673-BFE0-B37B85CBF4EF-e1777992218474.jpeg",
-    "status": null,
-    "age": "4 years old approx",
-    "sex": "Female",
-    "breed": "French Bulldog",
-    "notes": [
-      "can live with older children",
-      "can live with other dogs",
-      "friendly with dogs",
-      "friendly with strangers"
-    ],
-    "description": [
-      "Kira is a sweet girl who came into us as a stray and hasn’t been claimed by her owners. Sadly this means we have no previous history on her, but we have been assessing her since her arrival and she is a nice girl.",
-      "Kira has been a friendly girl since she arrived, she’s loves a fuss and is very affectionate. She likes her walks, she is generally an active girl who likes her walks. Anyone interested in Kira will need to do research into the breed and managing their exercise in the summer – due to the breed, she can struggle with heat. Sadly Kira arrived to us with fleas which she has been treated for, but she does need a bit of extra TLC in her next home. She can be rehomed with older sensible children that can play and help with her training.",
-      "We have been mixing Kira with dogs since her arrival. She isn’t overly interested in meeting or playing with other dogs, she happy walks and doing her own thing. She can be a little timid when dogs sniff her rear, but she is a good girl and tolerates it. She will need some socialising around dogs, as it is clear she has had limited socialisation. We have mixed her off lead with another dog at the rescue, and she was great. She was happy playing with her ball and doing zoomies. She could potentially live with another dog, but it would need to be one that can respect her space while she settles. Kira has shown to have a prey drive so cannot be rehomed with cats.",
-      "She can pull on lead, so will need owners that can manage this. She is an active, very playful girl and would be an amazing companion in the home. We hope someone comes along soon for her."
-    ]
-  },
-  {
-    "name": "Lola2",
-    "url": "https://ncar.org.uk/animals/lola2/",
-    "image": "https://ncar.org.uk/wp-content/uploads/2026/05/IMG_3816.jpeg",
-    "status": "Reserved",
-    "age": "1 year old",
-    "sex": "Female",
-    "breed": "Chihuahua x Frenchie x Pug",
-    "notes": [],
-    "description": [
-      "Lola is a sweet but insecure girl who has come into our care for rehoming due to no fault of her own. She is a sweet girl who is only young still, so it is vital that we find her the right home.Lola is a friendly girl but can be timid and anxious in different scenarios and needs owners that can dedicate time and effort to her ongoing training and socialisation. She requires general confidence building in new areas as she wasn’t used to being walked much in her previous home – she can be hesitant to walk in new areas at times. She has improved a lot during her stay with us already but this work will need to be continued.We feel that Lola will benefit from living in a calm, quiet home and will be best suited to a home with older teenagers, she has lived in a busy household previously which she found quite overwhelming at times and the oldest child could be too rough with her. Lola hasn’t been socialised around other dogs much and can be anxious around them so we feel she will be best as the only pet, but in a home with owners who can continue to socialise her around other dogs out and about.Lola loves playing with toys and being out in the garden. We really hope she finds a suitable home soon as she is a sweet girl and has lots to learn about the world 🙂"
-    ]
-  },
-  {
     "name": "Jem",
     "url": "https://ncar.org.uk/animals/jem/",
     "image": "https://ncar.org.uk/wp-content/uploads/2026/05/9D80B17B-33CA-4563-B58A-64BE472FF3F1.jpeg",
-    "status": null,
+    "status": "Reserved",
     "age": "1 year approx",
     "sex": "Female",
     "breed": "Lurcher",
     "notes": [],
     "description": [
       "Jem is a lovely girl who arrived with us as a stray after she was found running loose, no one has come forward to claim her so she is now looking for her forever home. She is a good girl, we have been assessing her since her arrival and she is very friendly with people and other dogs.Jem has potential to be rehomed with sensible children 6+ as long as the adults in the home are dog-savvy and responsible. She has been great with all of the dogs she has met so far and does like to play, so seems to have good potential to live with a compatible dog as long as introductions go well here at the rescue. She could also go as the only pet as long as her new owners put effort into keeping up her socialisation with other dogs when out and about on walks.Jem is looking for a home where she won’t be left for long periods, and where the time she is left for can be built up gradually.She is only young and will likely require training in a few different areas so new owners must be willing to put some work into her if needed. She is very food orientated which will aid in her training massively. She will require daily exercise to keep her satisfied – she will make a lovely adventure buddy!We really hope she finds a suitable home soon 🙂"
-    ]
-  },
-  {
-    "name": "Pickle",
-    "url": "https://ncar.org.uk/animals/pickle/",
-    "image": "https://ncar.org.uk/wp-content/uploads/2026/04/IMG_3641.jpeg",
-    "status": "Reserved",
-    "age": "2 YEARS APPROX",
-    "sex": "Female",
-    "breed": "Lurcher",
-    "notes": [],
-    "description": [
-      "Pickle is a friendly, sweet girl who has come into our care for rehoming with her friend Harry due to their owners change of circumstances. She is generally quite a timid girl and is a little bit bewildered here at the moment but she is a friendly affectionate girl once she gains a bit of confidence.",
-      "She is an affectionate and cuddly girl who does like company, once she has settled and you let her approach in her own time. She likes being out and about on walks and generally walks really well on the lead. Pickle has lived with another dog before and she has potential to live with a compatible dog as long as introductions go well, but would also be fine as the only pet as long as he wasn’t being left for long hours as she has been used to a lot of company previously.",
-      "Out on walks, she loves a good sniff and will plod alongside you, but will need quieter walks as she settles into the home. She can live with visiting children 14+ in the home, that can play and walk with him but also respect her space. Typical of the breed, she can be a little bit anxious, please reserach into the breed as they can have prey drive. She cannot be rehomed with cats.",
-      "She is generally a lovely girl who is still quite scared of kennels at the moment so we hope she finds her forever home soon."
     ]
   },
   {
@@ -165,20 +171,6 @@
       "Georgie is a clever girl knows commands like sit, paw, lie down, roll over and knows some hand signals.",
       "She is looking for a quiet adult only home with owners who have experience of large breeds. She generally walks well on the lead but due to her size she can be strong when she wants to be, her previous owners have used a Dogmatic headcollar on her to help manage her strength if/when needed.She does have some age-related deafness and has had ear infections in the past, but at the moment she is in good general health but cannot be spayed due to prior complications under anaesthetic – we can talk to potential owners more about this and they will be able to speak to our veterinary team.",
       "Although she is only nearly 9 years old this is quite old for a dog of her breed and size, so new owners should bare this in mind. We really hope this doesn’t put people off as she deserves some love and comfort in her remaining years. We really hope she finds a lovely home soon."
-    ]
-  },
-  {
-    "name": "Winston",
-    "url": "https://ncar.org.uk/animals/winston/",
-    "image": "https://ncar.org.uk/wp-content/uploads/2026/04/C8472642-9145-4C56-9744-F4550C601E81.jpeg",
-    "status": "Reserved",
-    "age": "1 year 3 months",
-    "sex": "Male",
-    "breed": "Jack Russell",
-    "notes": [],
-    "description": [
-      "Winston is a lovely little live-wire who has come into our care for rehoming due to no fault of his own. He is a very friendly cheeky boy who loves people and being out and about exploring. He is an active lad who needs plenty of daily exercise and mental stimulation to keep him satisfied.He has lived with children before so can be rehomed with sensible children aged 6+ as long as they are used to dogs and the adults in the home are sensible and experienced.He is generally friendly with other dogs but can be barky with them at times when out and about so will need more work in this area. He has lived with another dog before and had other dogs visiting so does have potential to live with a compatible dog as long as introductions go well here at the rescue, but new owners must be able to dedicate the 1-1 time and attention he will need to improve his behaviour out and about whilst he is still young. He will also thrive as the only pet and would love being the centre of attention.",
-      "Winston loves playing with toys, travels okay in the car and is generally a happy little guy. He is a typical terrier and we are sure he will appeal to fans of the breed. We really hope he finds a new home soon!"
     ]
   },
   {
@@ -251,7 +243,7 @@
     ]
   },
   {
-    "name": "Rosie",
+    "name": "Rosie – APPOINTMENT BOOKED",
     "url": "https://ncar.org.uk/animals/rosie/",
     "image": "https://ncar.org.uk/wp-content/uploads/2026/04/IMG_3161-e1776778941525.jpeg",
     "status": null,
@@ -272,7 +264,7 @@
     ]
   },
   {
-    "name": "Shadow – Appointment booked",
+    "name": "Shadow",
     "url": "https://ncar.org.uk/animals/shadow/",
     "image": "https://ncar.org.uk/wp-content/uploads/2026/04/IMG_3541.jpeg",
     "status": null,
@@ -623,7 +615,7 @@
     "name": "Solo",
     "url": "https://ncar.org.uk/animals/solo-2/",
     "image": "https://ncar.org.uk/wp-content/uploads/2025/01/IMG_3568.jpeg",
-    "status": null,
+    "status": "Reserved",
     "age": "3 years old",
     "sex": "Male",
     "breed": "Staffie x Boxer",
@@ -986,50 +978,6 @@
       "We have started introducing him to other dogs and he has been interacting well with them after the correct introductions have been done. When he see’s them out and about, he can get a little frustrated at times but this is improving daily and we will continue to work with him whilst he is with us, but for now he is looking for a home where he is the only pet.",
       "He is ideally looking for a home where he won’t be left for long hours as we do feel that he may potentially suffer with some separation anxiety. He can be homed with sensible older children aged 14 years + who are happy to get involved in his training.",
       "We really hope he finds his forever home soon as he is struggling with kennel life."
-    ]
-  },
-  {
-    "name": "Rory",
-    "url": "https://ncar.org.uk/animals/rory/",
-    "image": "https://ncar.org.uk/wp-content/uploads/2024/07/Rory-e1720088244373.jpg",
-    "status": "Reserved",
-    "age": "6 years approx",
-    "sex": "Male",
-    "breed": "Staffy cross",
-    "notes": [
-      "can live with older children",
-      "is toilet trained",
-      "can’t live with cats"
-    ],
-    "description": [
-      "Rory is a lovely lad who came into us as a stray, he is now looking for his new forever home! He was sadly in quite a sorry state when he arrived in our care, but is doing mucb better now thanks to some much needed TLC!",
-      "Rory is a huge character and that absolutely loves to give lots of cuddles! He is after a home that can cope with his energy and playfulness and will take him for plenty of walks and give him a lot of mental stimulation as well. He doesn’t fully know how to play with toys yet but we are getting there and he loves anything involving food! He can be quite strong on the lead especially when there are other people and dogs around but will require basic lead training in the home which we are working on here and will advise any potential owners.",
-      "When he first came to us he was obviously quite shy but now he loves all people he meets and is very affectionate. He may jump up with excitement and can be quite full on at times. He is looking for an adult only home.",
-      "Rory initially very scared around dogs when he arrived and did not know how to behave or interact around them and would become quite vocal and panic. We have been working on this with distraction and handling techniques which we can show to potential owners. So he will need owners that are patient with him, and can strict with his behaviour on walks. He would need walks that are quiet, he can also be reactive to other animals. He does need to be socialised in order to keep making progress around other dogs. Unfortunately Rory has had no interest since being here, he can be a handful but he is a really loving dog that just needs a chance. The kennel staff can explain more to anyone interested.",
-      "He really is a brilliant boy who will never give you a dull day, he just needs a home where owners will put time into socialising and teaching him in order for him to thrive."
-    ]
-  },
-  {
-    "name": "Elsie",
-    "url": "https://ncar.org.uk/animals/elsie/",
-    "image": "https://ncar.org.uk/wp-content/uploads/2024/01/Elsie1.jpg",
-    "status": "Working With",
-    "age": "4 years approx",
-    "sex": "Female",
-    "breed": "Boxer cross",
-    "notes": [
-      "can live with older children",
-      "can live with sensible children",
-      "friendly with dogs",
-      "friendly with strangers",
-      "can’t live with cats",
-      "medical issues"
-    ],
-    "description": [
-      "Elsie is a gorgeous girl who came to the rescue as a stray. She is a very bouncy girl who doesn’t seem to have had much input into her training. She is mostly deaf which makes her training a little more complex.",
-      "She is a funny girl who will chase balls and toys around the paddock, and she very cheeky as it becomes a game when we’re trying to catch her! She is full of energy so she will thrive in a home where she will get plenty of exercise, she would be an amazing adventure buddy. She does know some hand signals which help to calm her down and sit. She is very clever and eager to learn new things, anyone interested in dog training, Elsie would be great! She does likes other dogs, and so we do feel going with another dog may help her training but she is very full on and with her size, she can be a bit too bouncy.",
-      "She does get easily fixated on moving objects, such as leaves blowing and likes to chase them on walks. She is gen-con trained which helps with her strength. She sometimes gets nervous of large and fast moving traffic, she needs a bit of guidence with the outside world. She goes out with voluteers and staff, and loves nothing more than going for a long walk, plenty of sniffing and exploring and she will always sit on your lap after a walk for cuddles! She definitely doesn’t know her size!",
-      "Elsie has so much potential and her character really is lovely. Due to her size and lack of manners, we would be looking for a home with older children in their teens who will want to get involved in her training. We really hope she finds some interest soon as she really is an amazing dog."
     ]
   },
   {
