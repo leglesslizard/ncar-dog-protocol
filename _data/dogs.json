@@ -3,7 +3,7 @@
     "name": "Stripe",
     "url": "https://ncar.org.uk/animals/stripe/",
     "image": "https://ncar.org.uk/wp-content/uploads/2026/05/IMG_4270.jpeg",
-    "status": null,
+    "status": "Reserved",
     "age": "1 year, 1 month.",
     "sex": "Male",
     "breed": "Lurcher",
@@ -27,7 +27,7 @@
     "name": "Ivy",
     "url": "https://ncar.org.uk/animals/ivy/",
     "image": "https://ncar.org.uk/wp-content/uploads/2026/05/IMG_4262.jpeg",
-    "status": null,
+    "status": "Reserved",
     "age": "10 months.",
     "sex": "Female",
     "breed": "Lurcher",
@@ -298,27 +298,6 @@
     ]
   },
   {
-    "name": "Lassie",
-    "url": "https://ncar.org.uk/animals/lassie/",
-    "image": "https://ncar.org.uk/wp-content/uploads/2026/04/cfc78590-a7fb-49f1-b6a6-3095bbdd49c6.jpeg",
-    "status": "Reserved",
-    "age": "5 years.",
-    "sex": "Female",
-    "breed": "Collie",
-    "notes": [
-      "can live with older children",
-      "friendly with dogs",
-      "friendly with strangers"
-    ],
-    "description": [
-      "Lassie is a sweet girl that orginally came to us as a stray. We have found out more about her from a previous owner and found that she has quite an sad and unsettled life, so we really hope someone can give her a very loving forever home.",
-      "Lassie is a typical energetic, friendly collie. She has been very friendly with people and dogs since she arrived. She is quickly becoming the staff’s favourite! She loves playing with balls, especially in our off lead paddock and will happily play chase all day. She loves her walks and has been fine around cows and traffic so far. She does pull sometimes on lead, so will need some general training and someone very fit and actve to provide her with plenty exercise. She can be a bit timid of new environments but generally she is a veyr happy and friendly girl.",
-      "We have been testing her around dog and she does seem friendly and happy to play. We are currently looking at rehoming her as the only dog but we can reassess this as get to know her. She can be rehomed with children 12+, who can get involved with her training and play with her. She is quite a stressful girl, typical of her breed, so is getting quite upset being in kennels. She would be best suited to someone who can give her plenty of physical and mental exercise, and won’t leave her alone too much.",
-      "What we know of her past is that she has quite a few homes within a very short time and has been passed around. She lived with another dog for a short amount of time, and did growl at the other dog while eating. They had no other incidents with Lassie and other dogs. She also lived with young children and was very friendly and well behaved.",
-      "We really hope a lovely home finds Lassie soon, as she throughly deserves to be spoilt and well loved in her next home."
-    ]
-  },
-  {
     "name": "Bunny",
     "url": "https://ncar.org.uk/animals/bunny/",
     "image": "https://ncar.org.uk/wp-content/uploads/2026/04/41e2607e-4dbb-4788-a8af-df4de782e648.jpeg",
@@ -370,7 +349,7 @@
     "name": "Fenrie",
     "url": "https://ncar.org.uk/animals/fenrie-2/",
     "image": "https://ncar.org.uk/wp-content/uploads/2026/03/IMG_0809.jpeg",
-    "status": null,
+    "status": "Working With",
     "age": "10 months old approx",
     "sex": "Male",
     "breed": "American Bulldog cross",
@@ -557,7 +536,7 @@
     "url": "https://ncar.org.uk/animals/taz/",
     "image": "https://ncar.org.uk/wp-content/uploads/2025/07/IMG_1322-e1755349697533.jpeg",
     "status": null,
-    "age": "6-7 years old",
+    "age": "7 years old",
     "sex": "Male",
     "breed": "Collie x Staffie",
     "notes": [],
@@ -574,7 +553,7 @@
     "url": "https://ncar.org.uk/animals/tyson-2/",
     "image": "https://ncar.org.uk/wp-content/uploads/2025/05/1f75d0d8-1521-410d-874c-e259c846d261-e1747747594315.jpeg",
     "status": null,
-    "age": "5 years 8 months",
+    "age": "6 Years",
     "sex": "Male",
     "breed": "Labrador x Staffie",
     "notes": [
@@ -769,7 +748,7 @@
     "url": "https://ncar.org.uk/animals/jessie/",
     "image": "https://ncar.org.uk/wp-content/uploads/2025/05/74180073-accc-485e-9380-6e24f390675e-e1747748881311.jpeg",
     "status": null,
-    "age": "7 years old",
+    "age": "8 years old",
     "sex": "Female",
     "breed": "Labrador x Lurcher",
     "notes": [
@@ -964,7 +943,7 @@
     "url": "https://ncar.org.uk/animals/gizmo/",
     "image": "https://ncar.org.uk/wp-content/uploads/2024/05/Gizmo-e1714993769531.jpg",
     "status": null,
-    "age": "5 Years 6 Months",
+    "age": "5 Years",
     "sex": "Male",
     "breed": "Lurcher",
     "notes": [
