@@ -3,7 +3,7 @@ name: Fetch Dogs Data
 on:
   # schedule:
   #   - cron: '0 6 * * *'  # daily at 6am UTC
-  # workflow_dispatch:       # allows manual trigger from GitHub Actions tab
+  workflow_dispatch:       # allows manual trigger from GitHub Actions tab
 
 jobs:
   fetch:
