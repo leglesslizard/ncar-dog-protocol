@@ -57,6 +57,38 @@
       color: #888;
       border-top: 1px solid #ddd;
     }
+
+    .scroll-to-top {
+      position: fixed;
+      right: 1rem;
+      bottom: 1rem;
+      z-index: 9999;
+      width: 3rem;
+      height: 3rem;
+      border: none;
+      border-radius: 999px;
+      background: #2c2c2c;
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+      cursor: pointer;
+      opacity: 0;
+      pointer-events: none;
+      transform: translateY(0.75rem);
+      transition: opacity 0.2s ease, transform 0.2s ease;
+    }
+
+    .scroll-to-top.visible {
+      opacity: 1;
+      pointer-events: auto;
+      transform: translateY(0);
+    }
+
+    .scroll-to-top:hover {
+      background: #1a1a1a;
+    }
   </style>
 </head>
 <body>
@@ -69,7 +101,32 @@
   <footer>
     <p>NCAR Information</p>
   </footer>
+  <button class="scroll-to-top" type="button" aria-label="Scroll to top" title="Scroll to top">
+    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <path d="M12 19V5"/>
+      <path d="m5 12 7-7 7 7"/>
+    </svg>
+  </button>
   <script>
+    const scrollButton = document.querySelector( '.scroll-to-top' );
+
+    function toggleScrollButton() {
+      if ( !scrollButton ) return;
+      if ( window.scrollY > 220 ) {
+        scrollButton.classList.add( 'visible' );
+      } else {
+        scrollButton.classList.remove( 'visible' );
+      }
+    }
+
+    if ( scrollButton ) {
+      scrollButton.addEventListener( 'click', function() {
+        window.scrollTo( { top: 0, behavior: 'smooth' } );
+      } );
+      window.addEventListener( 'scroll', toggleScrollButton, { passive: true } );
+      toggleScrollButton();
+    }
+
     if ( 'serviceWorker' in navigator ) {
       window.addEventListener( 'load', function() {
         navigator.serviceWorker.register( '{{ "/sw.js" | relative_url }}' ).catch( function() {} );
