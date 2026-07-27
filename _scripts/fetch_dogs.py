@@ -13,17 +13,84 @@ import time
 
 import requests
 from bs4 import BeautifulSoup
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
+
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+if hasattr(sys.stderr, "reconfigure"):
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
 
 BASE_URL = "https://ncar.org.uk"
 ARCHIVE_URL = f"{BASE_URL}/animal_categories/dogs/"
-HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; NCARStaffTool/1.0)"}
+BROWSER_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+    "Accept-Language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Upgrade-Insecure-Requests": "1",
+    "Sec-Fetch-Site": "same-origin",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-User": "?1",
+    "Sec-Fetch-Dest": "document",
+    "DNT": "1",
+}
 OUTPUT_PATH = os.path.join(os.path.dirname(__file__), "..", "_data", "dogs.json")
 
 
+def build_session():
+    session = requests.Session()
+    session.headers.update(BROWSER_HEADERS)
+    retries = Retry(
+        total=3,
+        backoff_factor=0.5,
+        status_forcelist=[403, 429, 500, 502, 503, 504],
+        allowed_methods=["GET"],
+    )
+    adapter = HTTPAdapter(max_retries=retries)
+    session.mount("https://", adapter)
+    session.mount("http://", adapter)
+    return session
+
+
 def get_soup(url):
-    response = requests.get(url, headers=HEADERS, timeout=15)
-    response.raise_for_status()
-    return BeautifulSoup(response.text, "html.parser")
+    session = build_session()
+    candidates = [url]
+    if url.startswith("https://ncar.org.uk"):
+        candidates.append(url.replace("https://ncar.org.uk", "https://www.ncar.org.uk", 1))
+
+    last_error = None
+    for candidate in candidates:
+        try:
+            session.get(BASE_URL + "/", timeout=20, allow_redirects=True)
+            response = session.get(candidate, timeout=30, allow_redirects=True)
+            if response.status_code == 200:
+                return BeautifulSoup(response.text, "html.parser")
+            if response.status_code == 404:
+                raise requests.HTTPError(response=response)
+            last_error = requests.HTTPError(f"{candidate} returned {response.status_code}", response=response)
+        except requests.RequestException as exc:
+            last_error = exc
+
+    try:
+        from playwright.sync_api import sync_playwright
+    except ImportError as exc:
+        raise RuntimeError("The live site blocked the request and Playwright is not installed") from exc
+
+    with sync_playwright() as playwright:
+        browser = playwright.chromium.launch(headless=True)
+        page = browser.new_page(user_agent=BROWSER_HEADERS["User-Agent"])
+        page.goto(url, wait_until="domcontentloaded", timeout=60000)
+        page.wait_for_timeout(2500)
+        html = page.content()
+        browser.close()
+        if html:
+            return BeautifulSoup(html, "html.parser")
+
+    if last_error:
+        raise last_error
+    raise RuntimeError(f"Unable to fetch {url}")
 
 
 def get_archive_dogs():
@@ -158,7 +225,7 @@ def debug_dog_page(url):
                 continue
             if sibling is data_block_div:
                 past = True
-                print(f"  [data-block] <{sibling.name}> ← pivot")
+                print(f"  [data-block] <{sibling.name}> - pivot")
                 continue
             if not past:
                 continue
@@ -183,7 +250,7 @@ def main():
     print(f"Found {len(dogs)} dogs\n")
 
     for i, dog in enumerate(dogs):
-        print(f"[{i + 1}/{len(dogs)}] {dog['name']} — {dog['url']}")
+        print(f"[{i + 1}/{len(dogs)}] {dog['name']} - {dog['url']}")
         try:
             details = parse_dog_page(dog["url"])
             dog.update(details)
