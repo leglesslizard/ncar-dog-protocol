@@ -28,6 +28,39 @@ permalink: /dogs/
     color: #888;
   }
 
+  .dogs-toolbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-bottom: 1.2rem;
+  }
+
+  .dogs-search {
+    flex: 1 1 18rem;
+    display: flex;
+    align-items: center;
+  }
+
+  .dogs-search input {
+    width: 100%;
+    border: 1px solid #d8d2c9;
+    border-radius: 999px;
+    padding: 0.75rem 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.95rem;
+    color: #1a1a1a;
+    background: #fff;
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.04);
+  }
+
+  .dogs-search input:focus {
+    outline: 2px solid #2c2c2c;
+    outline-offset: 2px;
+    border-color: #2c2c2c;
+  }
+
   .back-link {
     display: inline-block;
     font-family: Arial, Helvetica, sans-serif;
@@ -256,14 +289,24 @@ permalink: /dogs/
   {% endif %}
 </div>
 
+{% if site.data.dogs.size > 0 %}
+<div class="dogs-toolbar">
+  <label class="dogs-search" for="dog-search">
+    <input id="dog-search" type="search" placeholder="Search by name or breed" autocomplete="off" spellcheck="false" aria-label="Search dogs by name or breed">
+  </label>
+  <span id="dogs-results-count" class="dogs-count">{{ site.data.dogs.size }} dogs</span>
+</div>
+{% endif %}
+
 {% if site.data.dogs.size == 0 %}
 <div class="dogs-empty">
   <p>No dogs data loaded yet — run the GitHub Actions workflow to populate this page.</p>
 </div>
 {% else %}
-<div class="dogs-grid">
+<div id="dogs-empty-results" class="dogs-empty" hidden>No dogs match your search.</div>
+<div id="dogs-grid" class="dogs-grid">
   {% for dog in site.data.dogs %}
-  <div class="dog-card">
+  <div class="dog-card" data-search="{{ dog.name }} {{ dog.breed | default: '' }}">
     {% if dog.image %}
     <div class="dog-photo">
       <img src="{{ dog.image }}" alt="{{ dog.name }}" loading="lazy">
@@ -323,6 +366,42 @@ permalink: /dogs/
 </div>
 
 <script>
+  const searchInput = document.getElementById( 'dog-search' );
+  const cards = Array.from( document.querySelectorAll( '.dog-card' ) );
+  const emptyState = document.getElementById( 'dogs-empty-results' );
+  const resultsCount = document.getElementById( 'dogs-results-count' );
+  const totalDogs = cards.length;
+
+  function normalizeText( value ) {
+    return ( value || '' ).toLowerCase().trim();
+  }
+
+  function updateDogFilter() {
+    const query = normalizeText( searchInput ? searchInput.value : '' );
+    let visibleCount = 0;
+
+    cards.forEach( function( card ) {
+      const matches = !query || normalizeText( card.dataset.search || '' ).includes( query );
+      card.hidden = !matches;
+      if ( matches ) visibleCount += 1;
+    } );
+
+    if ( resultsCount ) {
+      resultsCount.textContent = query
+        ? 'Showing ' + visibleCount + ' of ' + totalDogs + ' dogs'
+        : totalDogs + ' dogs';
+    }
+
+    if ( emptyState ) {
+      emptyState.hidden = visibleCount !== 0;
+    }
+  }
+
+  if ( searchInput ) {
+    searchInput.addEventListener( 'input', updateDogFilter );
+    updateDogFilter();
+  }
+
   function openDogModal( index ) {
     const descEl = document.getElementById( 'dog-desc-' + index );
     const btn = document.querySelector( '[data-dog="' + index + '"]' );
