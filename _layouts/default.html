@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="robots" content="noindex, nofollow">
+  <meta name="robots" content="noindex, nofollow, noarchive, nosnippet">
   <meta name="theme-color" content="#2c2c2c">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -69,26 +69,6 @@
   <footer>
     <p>NCAR Information</p>
   </footer>
-  <script>
-    (function() {
-      const correct = 'JPGPIEncar88';
-      const stored = sessionStorage.getItem('auth');
-
-      if ( stored !== correct ) {
-        document.body.style.display = 'none';
-
-        const password = prompt( 'Enter password to access this site:' );
-
-        if ( password === correct ) {
-          sessionStorage.setItem( 'auth', correct );
-          document.body.style.display = '';
-        } else {
-          document.body.innerHTML = '<p style="font-family:sans-serif;text-align:center;margin-top:4rem;">Incorrect password.</p>';
-          document.body.style.display = '';
-        }
-      }
-    })();
-  </script>
   <script>
     if ( 'serviceWorker' in navigator ) {
       window.addEventListener( 'load', function() {
