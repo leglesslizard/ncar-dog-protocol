@@ -382,7 +382,8 @@ permalink: /dogs/
 
     cards.forEach( function( card ) {
       const matches = !query || normalizeText( card.dataset.search || '' ).includes( query );
-      card.hidden = !matches;
+      card.style.display = matches ? '' : 'none';
+      card.setAttribute( 'aria-hidden', matches ? 'false' : 'true' );
       if ( matches ) visibleCount += 1;
     } );
 
