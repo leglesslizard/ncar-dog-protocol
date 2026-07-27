@@ -5,6 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="robots" content="noindex, nofollow">
+  <meta name="theme-color" content="#2c2c2c">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="NCAR Info">
+  <link rel="manifest" href="{{ '/manifest.webmanifest' | relative_url }}">
+  <link rel="icon" href="{{ '/assets/icons/manifest-icon.svg' | relative_url }}" type="image/svg+xml">
   <style>
     *, *::before, *::after { box-sizing: border-box; }
 
@@ -82,6 +88,13 @@
         }
       }
     })();
+  </script>
+  <script>
+    if ( 'serviceWorker' in navigator ) {
+      window.addEventListener( 'load', function() {
+        navigator.serviceWorker.register( '{{ "/sw.js" | relative_url }}' ).catch( function() {} );
+      } );
+    }
   </script>
 </body>
 </html>
