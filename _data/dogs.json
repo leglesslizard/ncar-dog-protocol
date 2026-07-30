@@ -1,5 +1,51 @@
 [
   {
+    "name": "Bella 2",
+    "url": "https://ncar.org.uk/animals/bella-2/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/07/IMG-20260729-WA0010-scaled.jpg",
+    "status": null,
+    "age": "5 years, 1 month",
+    "sex": "Female",
+    "breed": "Collie X Kelpie",
+    "notes": [
+      "can live with older children",
+      "friendly with dogs",
+      "friendly with strangers",
+      "has lived with children",
+      "has lived with dogs",
+      "can't live with young children",
+      "medical issues"
+    ],
+    "description": [
+      "Bella is a very sweet girl who was signed over to us due to her owners change of circumstances and having a new baby in the home. Bella took a couple days to settle in kennels but has settled well and she is a very sweet and affectionate girl now looking for her forever home.",
+      "Bella is a typically collie, who loves her walks and to be out exploring. She is becoming a favourite with volunteers as she loves a play with tennis balls in our off-lead paddock as well as on-lead walks, she can pull occassionally on walks but generally walks very well. She is looking for a home where she can get plenty of exercise and go on adventures, she will also need plenty of mental stimulation as she is a smart girl who likes learning!",
+      "She has previously lived with children and was very playful and affectionate with them, she is looking for a home with older children that get involved with playing and training but give Bella the space if she needs it. She can be quite an anxious girl who could be quite unsettled when first left alone but does settle eventually. She will need a quite home with owners that are willing to work with her behaviour and build on her confidence. She can be a little scared of things like the hoover, hairdryer, so she is just a baby at heart!",
+      "She has had visiting dogs in the home, but never lived with one for long term, so she will be looking for a home as the only dog as this is something she is more used to. She is friendly with dogs out and about and she would love to go on adventures with other canine friends!",
+      "She travels well in the car, well behaved in vets and she is generally a very sweet girl who we hope isn’t here too long."
+    ]
+  },
+  {
+    "name": "Penelope",
+    "url": "https://ncar.org.uk/animals/penelope/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/07/4d50d703-1b45-4690-b890-cfa0e56d7955.jpeg",
+    "status": null,
+    "age": "6months approx",
+    "sex": "Female",
+    "breed": "Jack Russell Terrier cross",
+    "notes": [
+      "can live with older children",
+      "friendly with dogs",
+      "good on the lead",
+      "can't live with young children"
+    ],
+    "description": [
+      "Penelope arrived to rescue, very timid and nervous, it took a while for Penelope to settle and begin to trust us. She is now a sassy and more confident lady who gets very excited to see her friends! She is still nervous of new people and of being overhandled or stroked, but she is improving and now looking for her forever home.",
+      "She is quite young and easily scared by things so she is settling with staff but she will need calm and patient owners that can help her confidence grow and learn the world isn’t as scary as she thinks. She can be timid on lead and will pull quite a bit so will need some lead training in the next home. She is a very affectionate girl when she knows you and will give you plenty of fuss and cuddles, she can be rehomed with children 14+ as she is quite timid and will shy away from hands sometimes, so any children in the home will need to give her space if needed.",
+      "She can be intimidated and barky with larger dogs, she started very timid here but she has quickly become a sassy girl around dogs! She will need socialisation around dogs in her next home as she can be flighty around any dogs she is unsure of. She can be a playful and a cheeky girl playing with dogs of a similar age so can be rehomed with a similar size / play style, with a dog that can be polite when Penelope gets nervous but help with her confidence! We will need to do mixes here to make sure all dogs are happy. Equally she can be rehomed as an only dog but it is important she get plenty of socialisation in her next home.",
+      "Generally she is a sweet and funny girl who just needs to learn the world isn’t as scary as she thinks! We hope a home comes a long soon, please only apply if you can provide a home dedicated to her training and building her confidence."
+    ]
+  },
+  {
     "name": "Lizzy",
     "url": "https://ncar.org.uk/animals/lizzy/",
     "image": "https://ncar.org.uk/wp-content/uploads/2026/07/5B54A3E1-9E9F-4177-A3D6-0605D8DCDEBA.jpeg",
@@ -87,9 +133,9 @@
     ]
   },
   {
-    "name": "Basil, Indigo + Violet",
+    "name": "Basil, Indigo + Violet (ONLY BASIL AVAILABLE NOW)",
     "url": "https://ncar.org.uk/animals/basil-indigo-violet/",
-    "image": "https://ncar.org.uk/wp-content/uploads/2026/07/IMG_20260713_133538_548.jpg",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/07/IMG-20260729-WA0006.jpg",
     "status": null,
     "age": "23 Weeks",
     "sex": "Mixed",
