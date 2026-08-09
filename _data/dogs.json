@@ -2,17 +2,13 @@
   {
     "name": "Puppies",
     "url": "https://ncar.org.uk/animals/puppies/",
-    "image": "https://ncar.org.uk/wp-content/uploads/2026/08/171B5C3C-5F95-4799-A485-DB7C1D483E3D.jpeg",
+    "image": null,
     "status": null,
-    "age": "Date of birth - 19th June",
-    "sex": "Mixed",
-    "breed": "Labrador x Lurcher/Greyhound",
+    "age": null,
+    "sex": null,
+    "breed": null,
     "notes": [],
-    "description": [
-      "This litter of puppies are little cuties who were brought into the rescue after their mum passed away. We have been caring for them since and they are all thriving and doing really well. There are two females and three males in the litter – please mention on your application form if you have a gender preference.They are currently 6 weeks old so we are starting the search for their forever homes, ready for when they are old enough to leave us.As with all of our dogs we will be selecting the most suitable homes for them so please include plenty of detail on your application form – we will be in contact with suitable applicants – please don’t call the rescue to chase up your application as we need to keep our phone lines free.Puppies can be hard work and are a 10+ year commitment so please ensure you have put a lot of thought into applying for them before sending in the form and please do not apply if you have holidays booked in the next few weeks which will cause a delay of them being able to go home. They will likely be ready to leave from around the 19th of August.",
-      "Mum was a black Labrador and dad is a Lurcher cross Greyhound, so they will likely be around medium sized when fully grown. They will be active dogs who will require daily exercise and mental stimulation to keep them satisfied.Due to their young age they can be rehomed with compatible friendly dogs (must be neutered if the opposite gender), other animals and dog-savvy children aged 5+ in their next home. They are typical puppies who are very lively, greedy and playful! They are into everything and are quite confident puppies.",
-      "These puppies are looking for homes with owners who have plenty of time + energy to put into their ongoing training and socialisation whilst they grow to ensure they mature into well-rounded adults. They will thrive in homes with owners who have active lifestyles and will benefit from puppy classes."
-    ]
+    "description": []
   },
   {
     "name": "Violet",
@@ -105,13 +101,17 @@
   {
     "name": "Roo",
     "url": "https://ncar.org.uk/animals/roo/",
-    "image": null,
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/07/090e27bc-b9f4-43b4-992f-5ac34df48fc4.jpeg",
     "status": null,
-    "age": null,
-    "sex": null,
-    "breed": null,
-    "notes": [],
-    "description": []
+    "age": "1-2 Years approx",
+    "sex": "Female",
+    "breed": "Staffie Cross",
+    "notes": [
+      "friendly with strangers"
+    ],
+    "description": [
+      "Roo is a very sweet girl that came to us as a stray after being tied up and abandoned. She is a really sweet girl who has grown in confidence since her arrival – she loves people!Roo is an active girl who will benefit from daily exercise and mental stimulation in order to keep her satisfied. She is enjoying her walks and being out and about. She is healthy and athletic – we feel that she would potentially make a good running buddy! Roo is estimated to be around 1-2 years old (no microchip for us to know for sure) and is a switched on girl. New owners must be willing to continue her training and socialisation once she goes home. She is looking for a home with sensible children aged 8+ who are used to bouncy dogs (younger children will be considered depending on the home). We have introduced Roo to other dogs since her arrival and she has mixed well, she can be nervous and unsure at times but is growing in confidence daily. We feel that she does have potential to be rehomed with another dog as long as introductions go well here at the rescue. We do not have any history on her around cats so she is looking for a cat-free home.She is food motivated which will help with her training. She really does have so much potential and is a stunning girl, so we really hope a suitable home comes along soon."
+    ]
   },
   {
     "name": "Mouse",
@@ -160,42 +160,32 @@
   {
     "name": "Holly",
     "url": "https://ncar.org.uk/animals/holly/",
-    "image": null,
+    "image": "https://ncar.org.uk/wp-content/uploads/2024/03/holly-e1710507019754.jpg",
     "status": null,
-    "age": null,
-    "sex": null,
-    "breed": null,
-    "notes": [],
-    "description": []
+    "age": "3 years 6 months approx",
+    "sex": "Female",
+    "breed": "Hound",
+    "notes": [
+      "can live with other dogs",
+      "friendly with dogs",
+      "friendly with strangers",
+      "can’t live with cats",
+      "can't live with young children"
+    ],
+    "description": [
+      "Holly is such a beautiful girl who came into us as a stray back in December 2023, she is looking for her new forever home which we can’t wait for her to find as she is wasted in kennels!",
+      "Holly is a lovely girl who has lots of love to give! She is affectionate and cuddly with people she knows but can be initially quite timid, however she is easily won round with time + treats! She can be timid of new environments but does tend to look to her handler for guidance. When she panics on walks, around traffic, busy public places, she can panic and put the brakes on – she can be very strong and stubborn so will need an owner that can manage this. However, once she settles she really enjoys being out and about on adventures or running around our secure off lead areas here at the rescue!",
+      "Her recall is quite hit and miss, typical of her breed! But she is very food motivated which definitely helps with training. Holly will require a secure garden with tall fences.",
+      "Since she has been with us she has met a large variety of different dogs and has been fantastic with them, she walks well with them and has also showed great social skills when off lead with them too. She has the potential to live with a compatible dog as long as the introductions go well here at the rescue. Being a Hound Holly would not be suitable to live with cats or other small furries.",
+      "Due to her coming into us as a stray, we don’t have any background history on her but she has been in two foster homes which allowed us to learn more about her and we can explain her more to anyone interested. She was in a foster home with two other smaller dogs – which she loved and seemed very confident, however she was quite boisterous for the older, smaller dogs which is why it was only a short foster.",
+      "Also, in one of the foster home she became quite timid and showed some guarding behaviours, due to this we are looking for an adult only home for Holly.",
+      "Overall she is an amazing girl who is a firm favourite here at NCAR and we hope a suitable home comes along for her soon!",
+      "Holly is a large breed, she is a hound, weighing around 30kg. We have been told the photos can be quite deceiving and that she looks small, beagle size, she is quite a big girl who is strong on lead."
+    ]
   },
   {
     "name": "Enzo",
     "url": "https://ncar.org.uk/animals/enzo/",
-    "image": "https://ncar.org.uk/wp-content/uploads/2026/06/86f1bc72-dd76-46b0-a05e-992c45859dbc.jpeg",
-    "status": null,
-    "age": "2 Years",
-    "sex": "Male",
-    "breed": "German Shepherd",
-    "notes": [
-      "friendly with strangers",
-      "good with kids",
-      "has lived with children",
-      "is toilet trained"
-    ],
-    "description": [
-      "Enzo is an extremely handsome boy, who is sadly looking for his new home due to his owners work commitments. This has been an extremely difficult decision, but it is what’s best for Enzo’s future.",
-      "He is staying in his current home to keep him out of kennels, so please bare this in mind that he is not at the rescue on a daily basis.",
-      "He is a super friendly lad, who is happy to greet everyone and make friends along the way.He loves nothing more than to go to his favourite place down at the beach and dive into the waves and push his nose into the rock pools in hope something fun may jump out at him.",
-      "Enzo has had a lot of training done with him and is looking for people to put time into continuing this.",
-      "As you can imagine, he is a big lad, so has a good amount of strength behind him, so potential owners need to keep this in mind. He isn’t an easy plod along boy, and does want to get out and about going for long walks and up in the mountains to have some good adventures like he does currently.He loves to learn new things and will do anything for some tasty chicken or ham, so maybe he could start learning to surf, so he can enjoy his favourite place even more.",
-      "Since a puppy, he has been well socialised with dogs, he will voice his presence to begin with and can be quite intimidating, which some dogs aren’t keen on. It is all frustration when he is held back on lead, and as soon as he has had a sniff of them he settles down quickly and generally ignores them.We feel he would be best suited as the only dog, so his social skills on lead can be worked on and learn to settle down when he’s out and about. He would really love to be with confident owners that will keep him well socialised with dogs and make new doggy friends from positive interactions, so he can eventually be running free with them which he has learnt to do in his current home.",
-      "Enzo has lived with very young children and apart from the odd knocking over due to his size, he has been great with them, so is looking for a home with children aged 5+.",
-      "He is such a loveable young lad, who we know will make someone a big cuddly companion and please bare with us to make arrangements for Enzo to be brought to NCAR for any visits with new adopters."
-    ]
-  },
-  {
-    "name": "Nugget",
-    "url": "https://ncar.org.uk/animals/nugget/",
     "image": null,
     "status": null,
     "age": null,
@@ -203,6 +193,27 @@
     "breed": null,
     "notes": [],
     "description": []
+  },
+  {
+    "name": "Nugget",
+    "url": "https://ncar.org.uk/animals/nugget/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/06/31ad4e71-6f76-4533-a1a2-c775f3151a5d.jpeg",
+    "status": null,
+    "age": "4 years, 6months",
+    "sex": "Female",
+    "breed": "American Bully",
+    "notes": [
+      "friendly with strangers",
+      "good on the lead",
+      "is toilet trained",
+      "can't live with dogs"
+    ],
+    "description": [
+      "Nugget is a friendly, energetic bully breed that arrived as a stray in March 2025. She was adopted last year, but has sadly been returned due to her behaviour in the home.",
+      "Nugget is a friendly girl with everyone she meets. When she first arrived at the rescue, she was very playful and cheeky, she loved our off-lead paddock and playing with toys. She was friendly and always wanted to say hi to people during her stay in a home. She lived in an adult only home, and reportedly fine around kids outside of the home, but due to her coming in as a stray and her adult-only previous home, we are looking at a home with adults only. We can reasses this for the right home with older sensible children.",
+      "When Nugget arrived to the resuce, we did some testing with her around dogs and it was mostly positive. She was friendly, but could be quite intense and unsure if they reacted to her. She was sadly returned to the rescue due to biting two dogs. We can go into more information with anyone interested in her. Her previous home said she would be interested and want to interact with other dogs, but if they reacted/snapped at her, she would react. Again, we can provide more information on her previous behaviour and how to manage this behaviour in the next, and hopefully forever, home.",
+      "She can be strong on lead, but has improved since last year. She is house trained, both here and in a home, travels well in the car and is well behaved at the vets. Generally she is a fab girl, she’s very playful with toys, loves people and can be a funny, crazy girl! We hope someone is able to work with her and see her amazing potential."
+    ]
   },
   {
     "name": "Bruno 2",
